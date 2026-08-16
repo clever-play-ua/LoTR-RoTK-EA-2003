@@ -189,11 +189,11 @@ For the `subT` resource's first `Rdat` chunk:
 
 ## Tools
 
-- **Game Extractor** (already installed): `C:\Users\UserM\Desktop\extract\GameExtractor.jar`
-  -- open-source, `org.watto.ge.plugin.*` package. Decompile any `.class`
-  file from it with CFR:
+- **Game Extractor** (`GameExtractor.jar`, vendored in this repo) --
+  open-source, `org.watto.ge.plugin.*` package. Decompile any `.class` file
+  from it with **CFR** (`cfr.jar`, also vendored -- no download needed,
+  just a JRE):
   ```
-  curl -sL -o cfr.jar https://github.com/leibnitz27/cfr/releases/download/0.152/cfr-0.152.jar
   unzip -o GameExtractor.jar "org/watto/ge/plugin/archive/Plugin_SCW.class" -d extracted/
   java -jar cfr.jar extracted/org/watto/ge/plugin/archive/Plugin_SCW.class --outputdir decompiled/
   ```

@@ -63,14 +63,15 @@ either way.
 | `AUDIO_INVESTIGATION_EN.md` | Status report on trying to extract/decode in-game dialogue audio. Container format solved, codec identified (EA MicroTalk), but the compression layer between stored bytes and the decoder is **unsolved**. Read this before re-attempting audio work -- several dead ends are already documented in detail. |
 | `TODO_MASTER_SUBT_DECOMPRESSION.md` | Same kind of "unsolved, here's what's been tried" status report, but for decompressing the pristine master install's multi-language `subT` table (see "Which install to use" above). Shares a root cause with the audio problem -- both are blocked on the same unidentified EA compression scheme. |
 | `GameExtractor.jar` | Vendored copy of the open-source **Game Extractor** tool. Its decompiled Java source (`org.watto.ge.plugin.*`) is the ground truth this whole project's `.scw`/`.font`/audio format understanding is built from -- always trust a fresh decompile of it over notes in any of the `.md` files here if they disagree. See "Re-deriving the format from source" below. |
+| `cfr.jar` | Vendored copy of the [CFR](https://github.com/leibnitz27/cfr) Java decompiler (MIT-licensed), version 0.152. Used to turn `GameExtractor.jar`'s `.class` files back into readable Java -- see below. |
 
 ## Re-deriving the format from source
 
 Whenever something in the `.md` docs doesn't match reality, don't guess --
-decompile the real tool and read what it actually does:
+decompile the real tool and read what it actually does. Both jars needed
+for this are already in the repo, so this needs no download, just a JRE:
 
 ```bash
-curl -sL -o cfr.jar https://github.com/leibnitz27/cfr/releases/download/0.152/cfr-0.152.jar
 unzip -o GameExtractor.jar "org/watto/ge/plugin/archive/Plugin_SCW.class" -d extracted/
 java -jar cfr.jar extracted/org/watto/ge/plugin/archive/Plugin_SCW.class --outputdir decompiled/
 ```
