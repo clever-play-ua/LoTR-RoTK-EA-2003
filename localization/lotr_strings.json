@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "DEU",
+    "string": "Немецкий",
+    "ua": "Німецька"
+  },
+  {
+    "id": "ENG",
+    "string": "Русский",
+    "ua": "Українська"
+  },
+  {
+    "id": "FRA",
+    "string": "Французский",
+    "ua": "Французька"
+  },
+  {
+    "id": "ITA",
+    "string": "Итальянский",
+    "ua": "Італійська"
+  },
+  {
+    "id": "NLD",
+    "string": "Голландский",
+    "ua": "Голландська"
+  },
+  {
+    "id": "POL",
+    "string": "Польский",
+    "ua": "Польська"
+  },
+  {
+    "id": "POR",
+    "string": "Португальский",
+    "ua": "Португальська"
+  },
+  {
+    "id": "SPA",
+    "string": "Испанкий",
+    "ua": "Іспанська"
+  },
+  {
+    "id": "SWE",
+    "string": "Чешский",
+    "ua": "Чеська"
+  },
+  {
+    "id": "abilitiesUnlocked",
+    "string": "Доступны новые способности",
+    "ua": "Доступні нові здібності"
+  },
+  {
+    "id": "aragorn",
+    "string": "Арагорн",
+    "ua": "Арагорн"
+  },
+  {
+    "id": "areyousure",
+    "string": "Вы уверены?",
+    "ua": "Ви впевнені?"
+  },
+  {
+    "id": "back",
+    "string": "Назад",
+    "ua": "Назад"
+  },
+  {
+    "id": "badgames",
+    "string": "Файл с сохранением поврежден.",
+    "ua": "Файл збереження пошкоджено."
+  },
+  {
+    "id": "badmedia",
+    "string": "Файла нет",
+    "ua": "Файлу немає"
+  },
+  {
+    "id": "bla01",
+    "string": "Черные Врата",
+    "ua": "Чорна Брама"
+  },
+  {
+    "id": "bla01LockDescCoop",
+    "string": "Пройдите Пеленнорские Поля и Минас-Тирит - Площадь",
+    "ua": "Пройдіть Пеленнорські Поля та Мінас-Тіріт - Площа"
+  },
+  {
+    "id": "bla01LockDescSingle",
+    "string": "Пройдите Пеленнорские Поля и Минас-Тирит - Площадь",
+    "ua": "Пройдіть Пеленнорські Поля та Мінас-Тіріт - Площа"
+  },
+  {
+    "id": "cancel",
+    "string": "Отмена",
+    "ua": "Скасувати"
+  },
+  {
+    "id": "charSelPlayer1Sel",
+    "string": "Игрок 1 Выберите героя",
+    "ua": "Гравець 1 Оберіть героя"
+  },
+  {
+    "id": "charSelPlayer2Sel",
+    "string": "Игрок 2 Выберите героя",
+    "ua": "Гравець 2 Оберіть героя"
+  },
+  {
+    "id": "charselCompleted",
+    "string": "выполнен",
+    "ua": "виконано"
+  },
+  {
+    "id": "charselCompletedHelp",
+    "string": "Этот уровень уже пройден.  Пройдите Роковую Гору, чтобы переиграть его.",
+    "ua": "Цей рівень вже пройдено.  Пройдіть Гору Приречення, щоб перегравати його."
+  },
+  {
+    "id": "charselHiddenHelp",
+    "string": "Пройдите Роковую Гору, чтобы открыть этого героя.",
+    "ua": "Пройдіть Гору Приречення, щоб відкрити цього героя."
+  },
+  {
+    "id": "charselLocked",
+    "string": "закрыто",
+    "ua": "закрито"
+  },
+  {
+    "id": "charselLockedHelp",
+    "string": "Этот герой сейчас недоступен",
+    "ua": "Цей герой зараз недоступний"
+  },
+  {
+    "id": "charselLockedHobbitHelp",
+    "string": "Персонаж проходит Путь Хоббитов.   Для открытия этого уровня пройдите Путь Мага, Путь Короля и Путь Хоббитов.",
+    "ua": "Персонаж проходить Шлях Хобітів.   Для відкриття цього рівня пройдіть Шлях Мага, Шлях Короля і Шлях Хобітів."
+  },
+  {
+    "id": "charselLockedKingHelp",
+    "string": "Персонаж проходит Путь Короля.   Для открытия этого уровня пройдите Путь Мага, Путь Короля и Путь Хоббитов.",
+    "ua": "Персонаж проходить Шлях Короля.   Для відкриття цього рівня пройдіть Шлях Мага, Шлях Короля і Шлях Хобітів."
+  },
+  {
+    "id": "charselLockedMerryHelp",
+    "string": "Пройдите Черные Врата, чтобы открыть этого героя.",
+    "ua": "Пройдіть Чорну Браму, щоб відкрити цього героя."
+  },
+  {
+    "id": "charselLockedWizardHelp",
+    "string": "Персонаж проходит Путь Мага.   Для открытия этого уровня пройдите Путь Мудреца, Путь Короля и Путь Хоббитов.",
+    "ua": "Персонаж проходить Шлях Мага.   Для відкриття цього рівня пройдіть Шлях Мудреця, Шлях Короля і Шлях Хобітів."
+  },
+  {
+    "id": "charselSpecialHelp",
+    "string": "Пройдите Роковую Гору для открытия этого героя.",
+    "ua": "Пройдіть Гору Приречення для відкриття цього героя."
+  },
+  {
+    "id": "charselTakenHelp",
+    "string": "Герой уже выбран.",
+    "ua": "Герой вже обраний."
+  },
+  {
+    "id": "charselUnplayableHelp",
+    "string": "Вы не можете играть этим героем на этом уровне.",
+    "ua": "Ви не можете грати цим героєм на цьому рівні."
+  },
+  {
+    "id": "checkingmedia",
+    "string": "Поиск сохраненных игр...",
+    "ua": "Пошук збережених ігор..."
+  },
+  {
+    "id": "checkpoint",
+    "string": "сохранение",
+    "ua": "збереження"
+  },
+  {
+    "id": "chooseLang",
+    "string": "Выберите язык.",
+    "ua": "Оберіть мову."
+  },
+  {
+    "id": "cir00",
+    "string": "Кирит-Унгол",
+    "ua": "Кіріт-Унгол"
+  },
+  {
+    "id": "cir00LockDescCoop",
+    "string": "Пройдите Логово Шелоб",
+    "ua": "Пройдіть Лігво Шелоб"
+  },
+  {
+    "id": "cir00LockDescSingle",
+    "string": "Пройдите Логово Шелоб",
+    "ua": "Пройдіть Лігво Шелоб"
+  },
+  {
+    "id": "climb",
+    "string": "Карабкаться",
+    "ua": "Дертися"
+  },
+  {
+    "id": "code1",
+    "string": "Восстановить Здоровье",
+    "ua": "Відновити Здоров'я"
+  },
+  {
+    "id": "code2",
+    "string": "Режим Превосходства",
+    "ua": "Режим Переваги"
+  },
+  {
+    "id": "code3",
+    "string": "Смертельный Удар",
+    "ua": "Смертельний Удар"
+  },
+  {
+    "id": "code4",
+    "string": "Все Апгрейды",
+    "ua": "Всі Апгрейди"
+  },
+  {
+    "id": "code5",
+    "string": "Бесконечные Стрелы",
+    "ua": "Нескінченні Стріли"
+  },
+  {
+    "id": "code6",
+    "string": "Кинетические Стрелы",
+    "ua": "Кінетичні Стріли"
+  },
+  {
+    "id": "code7",
+    "string": "Неуязвимость",
+    "ua": "Невразливість"
+  },
+  {
+    "id": "code8",
+    "string": "Режим Указания Цели",
+    "ua": "Режим Вказання Цілі"
+  },
+  {
+    "id": "codeInstr1",
+    "string": "1) Начните задание",
+    "ua": "1) Почніть завдання"
+  },
+  {
+    "id": "codeInstr2",
+    "string": "2) Нажмите ESC для паузы",
+    "ua": "2) Натисніть ESC для паузи"
+  },
+  {
+    "id": "codeInstr3",
+    "string": "3) Нажмите и держите LCtrl, LShift, и LAlt",
+    "ua": "3) Натисніть і тримайте LCtrl, LShift, і LAlt"
+  },
+  {
+    "id": "codeInstr4",
+    "string": "4) Введите кодовую последовательность на клавиатуре",
+    "ua": "4) Введіть кодову послідовність на клавіатурі"
+  },
+  {
+    "id": "codeTitle",
+    "string": "Секретные Коды",
+    "ua": "Секретні Коди"
+  },
+  {
+    "id": "colon",
+    "string": ":",
+    "ua": ":"
+  },
+  {
+    "id": "completed",
+    "string": "Завершено",
+    "ua": "Завершено"
+  },
+  {
+    "id": "continue",
+    "string": "Продолжить",
+    "ua": "Продовжити"
+  },
+  {
+    "id": "continueAny",
+    "string": "Нажмите любую клавишу для продолжения",
+    "ua": "Натисніть будь-яку клавішу для продовження"
+  },
+  {
+    "id": "continuenosave",
+    "string": "Продолжить Без Сохранения",
+    "ua": "Продовжити Без Збереження"
+  },
+  {
+    "id": "controllerConfiguration",
+    "string": "Конфигурация Контроллера",
+    "ua": "Конфігурація Контролера"
+  },
+  {
+    "id": "controllerRequired",
+    "string": "пожалуйста вставьте контроллер",
+    "ua": "будь ласка вставте контролер"
+  },
+  {
+    "id": "coopMissionExp",
+    "string": "Опыт Миссии",
+    "ua": "Досвід Місії"
+  },
+  {
+    "id": "coopMissionRating",
+    "string": "Рейтинг Миссии",
+    "ua": "Рейтинг Місії"
+  },
+  {
+    "id": "coopNewGameWarning",
+    "string": "В Кооп. режиме вы можете использовать вашего героя из любой сохраненной игры. Выберите 'да', если хотите начать заново.",
+    "ua": "У Кооп. режимі ви можете використати вашого героя з будь-якої збереженої гри. Оберіть 'так', якщо хочете почати заново."
+  },
+  {
+    "id": "coopStatsLabel",
+    "string": "Экран Кооп. Статистики",
+    "ua": "Екран Кооп. Статистики"
+  },
+  {
+    "id": "cra01",
+    "string": "Роковая Гора",
+    "ua": "Гора Приречення"
+  },
+  {
+    "id": "cra01LockDescCoop",
+    "string": "Пройдите Черные Врата и Кирит-Унгол",
+    "ua": "Пройдіть Чорну Браму і Кіріт-Унгол"
+  },
+  {
+    "id": "cra01LockDescSingle",
+    "string": "Пройдите Черные Врата и Кирит-Унгол",
+    "ua": "Пройдіть Чорну Браму і Кіріт-Унгол"
+  },
+  {
+    "id": "creditsLabel",
+    "string": "Создатели",
+    "ua": "Автори"
+  },
+  {
+    "id": "deletegames",
+    "string": "Вы хотите удалить поврежденные файлы игр?",
+    "ua": "Ви хочете видалити пошкоджені файли ігор?"
+  },
+  {
+    "id": "deletinggames",
+    "string": "Удаление поврежденных файлов игр.",
+    "ua": "Видалення пошкоджених файлів ігор."
+  },
+  {
+    "id": "device",
+    "string": " ",
+    "ua": ""
+  },
+  {
+    "id": "dunno",
+    "string": "Действие",
+    "ua": "Дія"
+  },
+  {
+    "id": "emptygame",
+    "string": "Пустой Слот",
+    "ua": "Порожній Слот"
+  },
+  {
+    "id": "enterCode",
+    "string": "Для ввода кода:",
+    "ua": "Для введення коду:"
+  },
+  {
+    "id": "exitToMenu",
+    "string": "Выход в Меню",
+    "ua": "Вихід у Меню"
+  },
+  {
+    "id": "faramir",
+    "string": "Фарамир",
+    "ua": "Фарамір"
+  },
+  {
+    "id": "fierce",
+    "string": "Силовая атака",
+    "ua": "Силова атака"
+  },
+  {
+    "id": "fireRanged",
+    "string": "Огонь",
+    "ua": "Вогонь"
+  },
+  {
+    "id": "frodo",
+    "string": "Фродо",
+    "ua": "Фродо"
+  },
+  {
+    "id": "gameSetup",
+    "string": "Настройка Игры",
+    "ua": "Налаштування Гри"
+  },
+  {
+    "id": "gandalf",
+    "string": "Гендальф",
+    "ua": "Гендальф"
+  },
+  {
+    "id": "gimli",
+    "string": "Гимли",
+    "ua": "Гімлі"
+  },
+  {
+    "id": "gradeExcellent",
+    "string": "Отлично",
+    "ua": "Відмінно"
+  },
+  {
+    "id": "gradeFair",
+    "string": "Нормально",
+    "ua": "Нормально"
+  },
+  {
+    "id": "gradeGood",
+    "string": "Хорошо",
+    "ua": "Добре"
+  },
+  {
+    "id": "gradePerfect",
+    "string": "Превосходно",
+    "ua": "Досконало"
+  },
+  {
+    "id": "hel01",
+    "string": "Хельмова Падь",
+    "ua": "Гельмів Яр"
+  },
+  {
+    "id": "hel01LockDescCoop",
+    "string": "Невозможно Играть в Кооп. Режиме",
+    "ua": "Неможливо Грати в Кооп. Режимі"
+  },
+  {
+    "id": "hel01LockDescSingle",
+    "string": "Никогда не будет вызван",
+    "ua": "Ніколи не буде викликано"
+  },
+  {
+    "id": "help",
+    "string": "Помощь",
+    "ua": "Допомога"
+  },
+  {
+    "id": "helpChangeModSel",
+    "string": "Модифицировать выбор",
+    "ua": "Модифікувати вибір"
+  },
+  {
+    "id": "helpChangeSel",
+    "string": "Изменить выбор",
+    "ua": "Змінити вибір"
+  },
+  {
+    "id": "helpGoBack",
+    "string": "Назад",
+    "ua": "Назад"
+  },
+  {
+    "id": "helpLabel",
+    "string": "Всплывающая подсказка",
+    "ua": "Спливаюча підказка"
+  },
+  {
+    "id": "helpLevelInfo",
+    "string": "Информация Уровня",
+    "ua": "Інформація Рівня"
+  },
+  {
+    "id": "helpMakeSel",
+    "string": "Сделать выбор",
+    "ua": "Зробити вибір"
+  },
+  {
+    "id": "helpOptions",
+    "string": "Настройки",
+    "ua": "Налаштування"
+  },
+  {
+    "id": "helpScreen_WIN",
+    "string": "Экран Помощи",
+    "ua": "Екран Допомоги"
+  },
+  {
+    "id": "help_WIN",
+    "string": " ",
+    "ua": ""
+  },
+  {
+    "id": "hobbitPath",
+    "string": "Путь Хоббитов",
+    "ua": "Шлях Хобітів"
+  },
+  {
+    "id": "inGameBadConn",
+    "string": "Обнаружены Проблемы с Соединением",
+    "ua": "Виявлено Проблеми зі З'єднанням"
+  },
+  {
+    "id": "inGameExit",
+    "string": "Выход В Меню",
+    "ua": "Вихід У Меню"
+  },
+  {
+    "id": "inGameNo",
+    "string": "нет",
+    "ua": "ні"
+  },
+  {
+    "id": "inGameObjective",
+    "string": "Советы",
+    "ua": "Поради"
+  },
+  {
+    "id": "inGameOptions",
+    "string": "Настройки",
+    "ua": "Налаштування"
+  },
+  {
+    "id": "inGameOptionsPage",
+    "string": "Страница Настроек",
+    "ua": "Сторінка Налаштувань"
+  },
+  {
+    "id": "inGamePressStart",
+    "string": "Нажмите Старт",
+    "ua": "Натисніть Старт"
+  },
+  {
+    "id": "inGameRestart",
+    "string": "Переиграть",
+    "ua": "Перегравати"
+  },
+  {
+    "id": "inGameReturn",
+    "string": "Продолжить",
+    "ua": "Продовжити"
+  },
+  {
+    "id": "inGameSOD",
+    "string": "Миссия провалена",
+    "ua": "Місію провалено"
+  },
+  {
+    "id": "inGameSelect",
+    "string": "Выбрать",
+    "ua": "Обрати"
+  },
+  {
+    "id": "inGameSure",
+    "string": "Вы Уверены?",
+    "ua": "Ви Впевнені?"
+  },
+  {
+    "id": "inGameUpgrades",
+    "string": "Комбинации",
+    "ua": "Комбінації"
+  },
+  {
+    "id": "inGameWin",
+    "string": "Debug Win",
+    "ua": "Debug Win"
+  },
+  {
+    "id": "inGameYes",
+    "string": "да",
+    "ua": "так"
+  },
+  {
+    "id": "ise01",
+    "string": "Дорога На Изенгард",
+    "ua": "Дорога На Ізенгард"
+  },
+  {
+    "id": "ise01LockDescCoop",
+    "string": "Пройдите Пеленнорские Поля",
+    "ua": "Пройдіть Пеленнорські Поля"
+  },
+  {
+    "id": "ise01LockDescSingle",
+    "string": "Пройдите Хельмову Падь",
+    "ua": "Пройдіть Гельмів Яр"
+  },
+  {
+    "id": "kWinFE_InptCfg_32bitColor",
+    "string": "32-битный Цвет",
+    "ua": "32-бітний Колір"
+  },
+  {
+    "id": "kWinFE_InptCfg_Action",
+    "string": "действие",
+    "ua": "дія"
+  },
+  {
+    "id": "kWinFE_InptCfg_AnalogStick",
+    "string": "Аналоговый Джойстик",
+    "ua": "Аналоговий Джойстик"
+  },
+  {
+    "id": "kWinFE_InptCfg_AreYouSure",
+    "string": "Вы Уверены?",
+    "ua": "Ви Впевнені?"
+  },
+  {
+    "id": "kWinFE_InptCfg_AudioLvl0",
+    "string": "Стерео",
+    "ua": "Стерео"
+  },
+  {
+    "id": "kWinFE_InptCfg_AudioLvl1",
+    "string": "3D",
+    "ua": "3D"
+  },
+  {
+    "id": "kWinFE_InptCfg_AudioLvl2",
+    "string": "3D+EAX",
+    "ua": "3D+EAX"
+  },
+  {
+    "id": "kWinFE_InptCfg_AudioPg",
+    "string": "аудио",
+    "ua": "аудіо"
+  },
+  {
+    "id": "kWinFE_InptCfg_AudioQuality",
+    "string": "Качество",
+    "ua": "Якість"
+  },
+  {
+    "id": "kWinFE_InptCfg_Back",
+    "string": "назад",
+    "ua": "назад"
+  },
+  {
+    "id": "kWinFE_InptCfg_Backward",
+    "string": "Назад",
+    "ua": "Назад"
+  },
+  {
+    "id": "kWinFE_InptCfg_ControlsPg",
+    "string": "управление",
+    "ua": "керування"
+  },
+  {
+    "id": "kWinFE_InptCfg_CtrlrType",
+    "string": "тип контроллера:",
+    "ua": "тип контролера:"
+  },
+  {
+    "id": "kWinFE_InptCfg_DiffEasy",
+    "string": "Легко",
+    "ua": "Легко"
+  },
+  {
+    "id": "kWinFE_InptCfg_DiffExpert",
+    "string": "Тяжело",
+    "ua": "Важко"
+  },
+  {
+    "id": "kWinFE_InptCfg_DiffNormal",
+    "string": "Средне",
+    "ua": "Середньо"
+  },
+  {
+    "id": "kWinFE_InptCfg_Excellent",
+    "string": "отлично",
+    "ua": "відмінно"
+  },
+  {
+    "id": "kWinFE_InptCfg_Fair",
+    "string": "нормально",
+    "ua": "нормально"
+  },
+  {
+    "id": "kWinFE_InptCfg_Forward",
+    "string": "Вперед",
+    "ua": "Вперед"
+  },
+  {
+    "id": "kWinFE_InptCfg_GameVol0",
+    "string": "Музыка",
+    "ua": "Музика"
+  },
+  {
+    "id": "kWinFE_InptCfg_GameVol1",
+    "string": "Голос",
+    "ua": "Голос"
+  },
+  {
+    "id": "kWinFE_InptCfg_GameVol2",
+    "string": "Игра",
+    "ua": "Гра"
+  },
+  {
+    "id": "kWinFE_InptCfg_Good",
+    "string": "хорошо",
+    "ua": "добре"
+  },
+  {
+    "id": "kWinFE_InptCfg_HelpPrompt",
+    "string": "Помощь",
+    "ua": "Допомога"
+  },
+  {
+    "id": "kWinFE_InptCfg_High",
+    "string": "Высокое",
+    "ua": "Високе"
+  },
+  {
+    "id": "kWinFE_InptCfg_Joystick",
+    "string": "Геймпад",
+    "ua": "Геймпад"
+  },
+  {
+    "id": "kWinFE_InptCfg_KbdMouse",
+    "string": "Клав./Мышь",
+    "ua": "Клав./Миша"
+  },
+  {
+    "id": "kWinFE_InptCfg_LeftRightNavKeys",
+    "string": "Влево/Вправо",
+    "ua": "Вліво/Вправо"
+  },
+  {
+    "id": "kWinFE_InptCfg_Low",
+    "string": "Низкое",
+    "ua": "Низьке"
+  },
+  {
+    "id": "kWinFE_InptCfg_MapKyPopTxt1",
+    "string": "нажмите клавишу для привязки",
+    "ua": "натисніть клавішу для прив'язки"
+  },
+  {
+    "id": "kWinFE_InptCfg_MapKyPopTxt2",
+    "string": "или",
+    "ua": "або"
+  },
+  {
+    "id": "kWinFE_InptCfg_MapKyPopTxt3",
+    "string": "esc для отмены",
+    "ua": "esc для скасування"
+  },
+  {
+    "id": "kWinFE_InptCfg_Medium",
+    "string": "Среднее",
+    "ua": "Середнє"
+  },
+  {
+    "id": "kWinFE_InptCfg_MnRating",
+    "string": "Рейтинг Задания :",
+    "ua": "Рейтинг Завдання :"
+  },
+  {
+    "id": "kWinFE_InptCfg_MouseSens",
+    "string": "Чувств. мыши",
+    "ua": "Чутл. миші"
+  },
+  {
+    "id": "kWinFE_InptCfg_No",
+    "string": "Нет",
+    "ua": "Ні"
+  },
+  {
+    "id": "kWinFE_InptCfg_Off",
+    "string": "Выкл",
+    "ua": "Викл"
+  },
+  {
+    "id": "kWinFE_InptCfg_On",
+    "string": "Вкл",
+    "ua": "Увімк"
+  },
+  {
+    "id": "kWinFE_InptCfg_Options",
+    "string": "опции",
+    "ua": "опції"
+  },
+  {
+    "id": "kWinFE_InptCfg_Perfect",
+    "string": "превосходно",
+    "ua": "досконало"
+  },
+  {
+    "id": "kWinFE_InptCfg_Player1",
+    "string": "игрок 1",
+    "ua": "гравець 1"
+  },
+  {
+    "id": "kWinFE_InptCfg_Player2",
+    "string": "игрок 2",
+    "ua": "гравець 2"
+  },
+  {
+    "id": "kWinFE_InptCfg_PlyrActionHeading",
+    "string": "Действия Игрока",
+    "ua": "Дії Гравця"
+  },
+  {
+    "id": "kWinFE_InptCfg_PlyrCtrlHeading",
+    "string": "Передвижение Игрока",
+    "ua": "Пересування Гравця"
+  },
+  {
+    "id": "kWinFE_InptCfg_Reset",
+    "string": "сброс",
+    "ua": "скинути"
+  },
+  {
+    "id": "kWinFE_InptCfg_SpecAbGPadDscFmt",
+    "string": "Кнопки %d + %d",
+    "ua": "Кнопки %d + %d"
+  },
+  {
+    "id": "kWinFE_InptCfg_Subtitles",
+    "string": "Субтитры",
+    "ua": "Субтитри"
+  },
+  {
+    "id": "kWinFE_InptCfg_TextureLevel",
+    "string": "Детали Персонажей",
+    "ua": "Деталі Персонажів"
+  },
+  {
+    "id": "kWinFE_InptCfg_UpDownNavKeys",
+    "string": "Вверх/Вниз",
+    "ua": "Вгору/Вниз"
+  },
+  {
+    "id": "kWinFE_InptCfg_VideoPg",
+    "string": "видео",
+    "ua": "відео"
+  },
+  {
+    "id": "kWinFE_InptCfg_WarnHwSupp",
+    "string": "Ваша текущая системная конфигурация не поддерживает эту особенность.",
+    "ua": "Ваша поточна системна конфігурація не підтримує цю особливість."
+  },
+  {
+    "id": "kWinFE_InptCfg_WarnNoChg",
+    "string": "Эта опция может быть изменена только из главного меню.",
+    "ua": "Ця опція може бути змінена лише з головного меню."
+  },
+  {
+    "id": "kWinFE_InptCfg_Yes",
+    "string": "Да",
+    "ua": "Так"
+  },
+  {
+    "id": "kWinFE_InptCfg_action",
+    "string": "Действие",
+    "ua": "Дія"
+  },
+  {
+    "id": "kWinFE_InptCfg_altCameras",
+    "string": "Смена камер",
+    "ua": "Зміна камер"
+  },
+  {
+    "id": "kWinFE_InptCfg_difficulty",
+    "string": "Сложность",
+    "ua": "Складність"
+  },
+  {
+    "id": "kWinFE_InptCfg_equipRanged",
+    "string": "Дальняя Атака",
+    "ua": "Дальня Атака"
+  },
+  {
+    "id": "kWinFE_InptCfg_fierceAttack",
+    "string": "Силовая Атака",
+    "ua": "Силова Атака"
+  },
+  {
+    "id": "kWinFE_InptCfg_gamma",
+    "string": "Гамма",
+    "ua": "Гамма"
+  },
+  {
+    "id": "kWinFE_InptCfg_jump_back",
+    "string": "Прыжок Назад",
+    "ua": "Стрибок Назад"
+  },
+  {
+    "id": "kWinFE_InptCfg_killing_move",
+    "string": "Добивание",
+    "ua": "Добивання"
+  },
+  {
+    "id": "kWinFE_InptCfg_moveChar",
+    "string": "Передвижение Героя",
+    "ua": "Пересування Героя"
+  },
+  {
+    "id": "kWinFE_InptCfg_moveCharFlip",
+    "string": "Передвижение героя (поворот 180)",
+    "ua": "Пересування героя (поворот 180)"
+  },
+  {
+    "id": "kWinFE_InptCfg_move_back",
+    "string": "Передвижение Назад",
+    "ua": "Пересування Назад"
+  },
+  {
+    "id": "kWinFE_InptCfg_move_forward",
+    "string": "Передвижение Вперед",
+    "ua": "Пересування Вперед"
+  },
+  {
+    "id": "kWinFE_InptCfg_move_left",
+    "string": "Передвижение Влево",
+    "ua": "Пересування Вліво"
+  },
+  {
+    "id": "kWinFE_InptCfg_move_right",
+    "string": "Передвижение Вправо",
+    "ua": "Пересування Вправо"
+  },
+  {
+    "id": "kWinFE_InptCfg_parry",
+    "string": "Парирование",
+    "ua": "Парирування"
+  },
+  {
+    "id": "kWinFE_InptCfg_pause",
+    "string": "пауза",
+    "ua": "пауза"
+  },
+  {
+    "id": "kWinFE_InptCfg_physical",
+    "string": "Физическая Атака",
+    "ua": "Фізична Атака"
+  },
+  {
+    "id": "kWinFE_InptCfg_screenRes",
+    "string": "Разрешение Экрана",
+    "ua": "Роздільна Здатність Екрана"
+  },
+  {
+    "id": "kWinFE_InptCfg_sfx",
+    "string": "Качество Эффектов",
+    "ua": "Якість Ефектів"
+  },
+  {
+    "id": "kWinFE_InptCfg_shadow",
+    "string": "Качество Теней",
+    "ua": "Якість Тіней"
+  },
+  {
+    "id": "kWinFE_InptCfg_specAbility",
+    "string": "Специальные Способности",
+    "ua": "Спеціальні Здібності"
+  },
+  {
+    "id": "kWinFE_InptCfg_speed_attack",
+    "string": "Быстрая Атака",
+    "ua": "Швидка Атака"
+  },
+  {
+    "id": "kWinFE_LLInputWin_Button",
+    "string": "Кнопка",
+    "ua": "Кнопка"
+  },
+  {
+    "id": "kWinFE_LLInputWin_ButtonPlural",
+    "string": "Кнопки",
+    "ua": "Кнопки"
+  },
+  {
+    "id": "kWinFE_LLInputWin_Joystick",
+    "string": "джойстик",
+    "ua": "джойстик"
+  },
+  {
+    "id": "kWinFE_LLInputWin_LtMouse",
+    "string": "ЛКМ",
+    "ua": "ЛКМ"
+  },
+  {
+    "id": "kWinFE_LLInputWin_MidMouse",
+    "string": "СКМ",
+    "ua": "СКМ"
+  },
+  {
+    "id": "kWinFE_LLInputWin_Mouse",
+    "string": "мышь",
+    "ua": "миша"
+  },
+  {
+    "id": "kWinFE_LLInputWin_RtMouse",
+    "string": "ПКМ",
+    "ua": "ПКМ"
+  },
+  {
+    "id": "kWinFE_UI_XML_Exit",
+    "string": "выход",
+    "ua": "вихід"
+  },
+  {
+    "id": "kWinFE_UI_XML_Loading",
+    "string": "Загрузка...",
+    "ua": "Завантаження..."
+  },
+  {
+    "id": "kWinFE_UI_XML_Pause",
+    "string": "пауза",
+    "ua": "пауза"
+  },
+  {
+    "id": "kWinFE_UI_XML_PressAnyKey",
+    "string": "НАЖМИТЕ ЛЮБУЮ КЛАВИШУ",
+    "ua": "НАТИСНІТЬ БУДЬ-ЯКУ КЛАВІШУ"
+  },
+  {
+    "id": "kWinFE_UI_XML_Resume",
+    "string": "продолжить",
+    "ua": "продовжити"
+  },
+  {
+    "id": "kWinFE_UI_XML_TryAgainL1",
+    "string": "вы хотите",
+    "ua": "ви хочете"
+  },
+  {
+    "id": "kWinFE_UI_XML_TryAgainL2",
+    "string": "попытаться снова?",
+    "ua": "спробувати знову?"
+  },
+  {
+    "id": "kWinFE_WinInptDX_0",
+    "string": "0",
+    "ua": "0"
+  },
+  {
+    "id": "kWinFE_WinInptDX_1",
+    "string": "1",
+    "ua": "1"
+  },
+  {
+    "id": "kWinFE_WinInptDX_2",
+    "string": "2",
+    "ua": "2"
+  },
+  {
+    "id": "kWinFE_WinInptDX_3",
+    "string": "3",
+    "ua": "3"
+  },
+  {
+    "id": "kWinFE_WinInptDX_4",
+    "string": "4",
+    "ua": "4"
+  },
+  {
+    "id": "kWinFE_WinInptDX_5",
+    "string": "5",
+    "ua": "5"
+  },
+  {
+    "id": "kWinFE_WinInptDX_6",
+    "string": "6",
+    "ua": "6"
+  },
+  {
+    "id": "kWinFE_WinInptDX_7",
+    "string": "7",
+    "ua": "7"
+  },
+  {
+    "id": "kWinFE_WinInptDX_8",
+    "string": "8",
+    "ua": "8"
+  },
+  {
+    "id": "kWinFE_WinInptDX_9",
+    "string": "9",
+    "ua": "9"
+  },
+  {
+    "id": "kWinFE_WinInptDX_A",
+    "string": "A",
+    "ua": "A"
+  },
+  {
+    "id": "kWinFE_WinInptDX_ABNT_C1",
+    "string": "abntc-1",
+    "ua": "abntc-1"
+  },
+  {
+    "id": "kWinFE_WinInptDX_ABNT_C2",
+    "string": "abntc-2",
+    "ua": "abntc-2"
+  },
+  {
+    "id": "kWinFE_WinInptDX_ADD",
+    "string": "Numpad +",
+    "ua": "Numpad +"
+  },
+  {
+    "id": "kWinFE_WinInptDX_APOSTROPHE",
+    "string": "'",
+    "ua": "'"
+  },
+  {
+    "id": "kWinFE_WinInptDX_APPS",
+    "string": "apps",
+    "ua": "apps"
+  },
+  {
+    "id": "kWinFE_WinInptDX_AT",
+    "string": "at",
+    "ua": "at"
+  },
+  {
+    "id": "kWinFE_WinInptDX_AX",
+    "string": "ax",
+    "ua": "ax"
+  },
+  {
+    "id": "kWinFE_WinInptDX_B",
+    "string": "B",
+    "ua": "B"
+  },
+  {
+    "id": "kWinFE_WinInptDX_BACK",
+    "string": "Backspace",
+    "ua": "Backspace"
+  },
+  {
+    "id": "kWinFE_WinInptDX_BACKSLASH",
+    "string": "\\",
+    "ua": "\\"
+  },
+  {
+    "id": "kWinFE_WinInptDX_C",
+    "string": "C",
+    "ua": "C"
+  },
+  {
+    "id": "kWinFE_WinInptDX_CALCULATOR",
+    "string": "calculator",
+    "ua": "calculator"
+  },
+  {
+    "id": "kWinFE_WinInptDX_CAPITAL",
+    "string": "Caps",
+    "ua": "Caps"
+  },
+  {
+    "id": "kWinFE_WinInptDX_COLON",
+    "string": ":",
+    "ua": ":"
+  },
+  {
+    "id": "kWinFE_WinInptDX_COMMA",
+    "string": ",",
+    "ua": ","
+  },
+  {
+    "id": "kWinFE_WinInptDX_CONVERT",
+    "string": "convert",
+    "ua": "convert"
+  },
+  {
+    "id": "kWinFE_WinInptDX_D",
+    "string": "D",
+    "ua": "D"
+  },
+  {
+    "id": "kWinFE_WinInptDX_DECIMAL",
+    "string": "Numpad .",
+    "ua": "Numpad ."
+  },
+  {
+    "id": "kWinFE_WinInptDX_DELETE",
+    "string": "Del",
+    "ua": "Del"
+  },
+  {
+    "id": "kWinFE_WinInptDX_DIVIDE",
+    "string": "Numpad /",
+    "ua": "Numpad /"
+  },
+  {
+    "id": "kWinFE_WinInptDX_DOWN",
+    "string": "Down Arrow",
+    "ua": "Down Arrow"
+  },
+  {
+    "id": "kWinFE_WinInptDX_E",
+    "string": "E",
+    "ua": "E"
+  },
+  {
+    "id": "kWinFE_WinInptDX_END",
+    "string": "End",
+    "ua": "End"
+  },
+  {
+    "id": "kWinFE_WinInptDX_EQUALS",
+    "string": "=",
+    "ua": "="
+  },
+  {
+    "id": "kWinFE_WinInptDX_ESCAPE",
+    "string": "Esc",
+    "ua": "Esc"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F",
+    "string": "F",
+    "ua": "F"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F1",
+    "string": "F1",
+    "ua": "F1"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F10",
+    "string": "F10",
+    "ua": "F10"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F11",
+    "string": "F11",
+    "ua": "F11"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F12",
+    "string": "F12",
+    "ua": "F12"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F13",
+    "string": "F13",
+    "ua": "F13"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F14",
+    "string": "F14",
+    "ua": "F14"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F15",
+    "string": "F15",
+    "ua": "F15"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F2",
+    "string": "F2",
+    "ua": "F2"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F3",
+    "string": "F3",
+    "ua": "F3"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F4",
+    "string": "F4",
+    "ua": "F4"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F5",
+    "string": "F5",
+    "ua": "F5"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F6",
+    "string": "F6",
+    "ua": "F6"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F7",
+    "string": "F7",
+    "ua": "F7"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F8",
+    "string": "F8",
+    "ua": "F8"
+  },
+  {
+    "id": "kWinFE_WinInptDX_F9",
+    "string": "F9",
+    "ua": "F9"
+  },
+  {
+    "id": "kWinFE_WinInptDX_G",
+    "string": "G",
+    "ua": "G"
+  },
+  {
+    "id": "kWinFE_WinInptDX_GRAVE",
+    "string": "~",
+    "ua": "~"
+  },
+  {
+    "id": "kWinFE_WinInptDX_H",
+    "string": "H",
+    "ua": "H"
+  },
+  {
+    "id": "kWinFE_WinInptDX_HOME",
+    "string": "Home",
+    "ua": "Home"
+  },
+  {
+    "id": "kWinFE_WinInptDX_I",
+    "string": "I",
+    "ua": "I"
+  },
+  {
+    "id": "kWinFE_WinInptDX_INSERT",
+    "string": "Ins",
+    "ua": "Ins"
+  },
+  {
+    "id": "kWinFE_WinInptDX_J",
+    "string": "J",
+    "ua": "J"
+  },
+  {
+    "id": "kWinFE_WinInptDX_K",
+    "string": "K",
+    "ua": "K"
+  },
+  {
+    "id": "kWinFE_WinInptDX_KANA",
+    "string": "Kana",
+    "ua": "Kana"
+  },
+  {
+    "id": "kWinFE_WinInptDX_KANJI",
+    "string": "kanji",
+    "ua": "kanji"
+  },
+  {
+    "id": "kWinFE_WinInptDX_L",
+    "string": "L",
+    "ua": "L"
+  },
+  {
+    "id": "kWinFE_WinInptDX_LBRACKET",
+    "string": "[",
+    "ua": "["
+  },
+  {
+    "id": "kWinFE_WinInptDX_LCONTROL",
+    "string": "L-Ctrl",
+    "ua": "L-Ctrl"
+  },
+  {
+    "id": "kWinFE_WinInptDX_LEFT",
+    "string": "Left Arrow",
+    "ua": "Left Arrow"
+  },
+  {
+    "id": "kWinFE_WinInptDX_LMENU",
+    "string": "L-Alt",
+    "ua": "L-Alt"
+  },
+  {
+    "id": "kWinFE_WinInptDX_LSHIFT",
+    "string": "L-Shift",
+    "ua": "L-Shift"
+  },
+  {
+    "id": "kWinFE_WinInptDX_LWIN",
+    "string": "Left WIN",
+    "ua": "Left WIN"
+  },
+  {
+    "id": "kWinFE_WinInptDX_M",
+    "string": "M",
+    "ua": "M"
+  },
+  {
+    "id": "kWinFE_WinInptDX_MAIL",
+    "string": "mail",
+    "ua": "mail"
+  },
+  {
+    "id": "kWinFE_WinInptDX_MEDIASLCT",
+    "string": "media select",
+    "ua": "media select"
+  },
+  {
+    "id": "kWinFE_WinInptDX_MEDIASTOP",
+    "string": "media stop",
+    "ua": "media stop"
+  },
+  {
+    "id": "kWinFE_WinInptDX_MINUS",
+    "string": "-",
+    "ua": "-"
+  },
+  {
+    "id": "kWinFE_WinInptDX_MULTIPLY",
+    "string": "Numpad *",
+    "ua": "Numpad *"
+  },
+  {
+    "id": "kWinFE_WinInptDX_MUTE",
+    "string": "mute",
+    "ua": "mute"
+  },
+  {
+    "id": "kWinFE_WinInptDX_MYCOMPUTER",
+    "string": "my computer",
+    "ua": "my computer"
+  },
+  {
+    "id": "kWinFE_WinInptDX_N",
+    "string": "N",
+    "ua": "N"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NEXT",
+    "string": "Page Down",
+    "ua": "Page Down"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NEXTTRACK",
+    "string": "next track",
+    "ua": "next track"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NOCONVERT",
+    "string": "no-convert",
+    "ua": "no-convert"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMLOCK",
+    "string": "Numlock",
+    "ua": "Numlock"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD0",
+    "string": "Numpad 0",
+    "ua": "Numpad 0"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD1",
+    "string": "Numpad 1",
+    "ua": "Numpad 1"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD2",
+    "string": "Numpad 2",
+    "ua": "Numpad 2"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD3",
+    "string": "Numpad 3",
+    "ua": "Numpad 3"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD4",
+    "string": "Numpad 4",
+    "ua": "Numpad 4"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD5",
+    "string": "Numpad 5",
+    "ua": "Numpad 5"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD6",
+    "string": "Numpad 6",
+    "ua": "Numpad 6"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD7",
+    "string": "Numpad 7",
+    "ua": "Numpad 7"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD8",
+    "string": "Numpad 8",
+    "ua": "Numpad 8"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPAD9",
+    "string": "Numpad 9",
+    "ua": "Numpad 9"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPADCMA",
+    "string": "Numpad ,",
+    "ua": "Numpad ,"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPADENT",
+    "string": "Numpad Enter",
+    "ua": "Numpad Enter"
+  },
+  {
+    "id": "kWinFE_WinInptDX_NUMPADEQ",
+    "string": "Numpad =",
+    "ua": "Numpad ="
+  },
+  {
+    "id": "kWinFE_WinInptDX_O",
+    "string": "O",
+    "ua": "O"
+  },
+  {
+    "id": "kWinFE_WinInptDX_OEM_102",
+    "string": "OEM 102",
+    "ua": "OEM 102"
+  },
+  {
+    "id": "kWinFE_WinInptDX_P",
+    "string": "P",
+    "ua": "P"
+  },
+  {
+    "id": "kWinFE_WinInptDX_PAUSE",
+    "string": "Pause",
+    "ua": "Pause"
+  },
+  {
+    "id": "kWinFE_WinInptDX_PERIOD",
+    "string": ".",
+    "ua": "."
+  },
+  {
+    "id": "kWinFE_WinInptDX_PLAYPAUSE",
+    "string": "play pause",
+    "ua": "play pause"
+  },
+  {
+    "id": "kWinFE_WinInptDX_POWER",
+    "string": "power",
+    "ua": "power"
+  },
+  {
+    "id": "kWinFE_WinInptDX_PREVTRACK",
+    "string": "prev track",
+    "ua": "prev track"
+  },
+  {
+    "id": "kWinFE_WinInptDX_PRIOR",
+    "string": "Page Up",
+    "ua": "Page Up"
+  },
+  {
+    "id": "kWinFE_WinInptDX_Q",
+    "string": "Q",
+    "ua": "Q"
+  },
+  {
+    "id": "kWinFE_WinInptDX_R",
+    "string": "R",
+    "ua": "R"
+  },
+  {
+    "id": "kWinFE_WinInptDX_RBRACKET",
+    "string": "]",
+    "ua": "]"
+  },
+  {
+    "id": "kWinFE_WinInptDX_RCONTROL",
+    "string": "R-Ctrl",
+    "ua": "R-Ctrl"
+  },
+  {
+    "id": "kWinFE_WinInptDX_RETURN",
+    "string": "Enter",
+    "ua": "Enter"
+  },
+  {
+    "id": "kWinFE_WinInptDX_RIGHT",
+    "string": "Right Arrow",
+    "ua": "Right Arrow"
+  },
+  {
+    "id": "kWinFE_WinInptDX_RMENU",
+    "string": "R-Alt",
+    "ua": "R-Alt"
+  },
+  {
+    "id": "kWinFE_WinInptDX_RSHIFT",
+    "string": "R-Shift",
+    "ua": "R-Shift"
+  },
+  {
+    "id": "kWinFE_WinInptDX_RWIN",
+    "string": "Right WIN",
+    "ua": "Right WIN"
+  },
+  {
+    "id": "kWinFE_WinInptDX_S",
+    "string": "S",
+    "ua": "S"
+  },
+  {
+    "id": "kWinFE_WinInptDX_SCROLL",
+    "string": "Scroll",
+    "ua": "Scroll"
+  },
+  {
+    "id": "kWinFE_WinInptDX_SEMICOLON",
+    "string": ";",
+    "ua": ";"
+  },
+  {
+    "id": "kWinFE_WinInptDX_SLASH",
+    "string": "/",
+    "ua": "/"
+  },
+  {
+    "id": "kWinFE_WinInptDX_SLEEP",
+    "string": "sleep",
+    "ua": "sleep"
+  },
+  {
+    "id": "kWinFE_WinInptDX_SPCBAR",
+    "string": "Space",
+    "ua": "Space"
+  },
+  {
+    "id": "kWinFE_WinInptDX_STOP",
+    "string": "stop",
+    "ua": "stop"
+  },
+  {
+    "id": "kWinFE_WinInptDX_SUBTRACT",
+    "string": "Numpad -",
+    "ua": "Numpad -"
+  },
+  {
+    "id": "kWinFE_WinInptDX_SYSRQ",
+    "string": "sysreq",
+    "ua": "sysreq"
+  },
+  {
+    "id": "kWinFE_WinInptDX_T",
+    "string": "T",
+    "ua": "T"
+  },
+  {
+    "id": "kWinFE_WinInptDX_TAB",
+    "string": "Tab",
+    "ua": "Tab"
+  },
+  {
+    "id": "kWinFE_WinInptDX_U",
+    "string": "U",
+    "ua": "U"
+  },
+  {
+    "id": "kWinFE_WinInptDX_UNDERLINE",
+    "string": "_",
+    "ua": "_"
+  },
+  {
+    "id": "kWinFE_WinInptDX_UNLABELED",
+    "string": "unlabeled",
+    "ua": "unlabeled"
+  },
+  {
+    "id": "kWinFE_WinInptDX_UP",
+    "string": "Up Arrow",
+    "ua": "Up Arrow"
+  },
+  {
+    "id": "kWinFE_WinInptDX_V",
+    "string": "V",
+    "ua": "V"
+  },
+  {
+    "id": "kWinFE_WinInptDX_VOLUMEDOWN",
+    "string": "volume down",
+    "ua": "volume down"
+  },
+  {
+    "id": "kWinFE_WinInptDX_VOLUMEUP",
+    "string": "volume up",
+    "ua": "volume up"
+  },
+  {
+    "id": "kWinFE_WinInptDX_W",
+    "string": "W",
+    "ua": "W"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WAKE",
+    "string": "wake",
+    "ua": "wake"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WEBBACK",
+    "string": "web back",
+    "ua": "web back"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WEBFAVES",
+    "string": "web faves",
+    "ua": "web faves"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WEBFORWARD",
+    "string": "web fwd",
+    "ua": "web fwd"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WEBHOME",
+    "string": "web home",
+    "ua": "web home"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WEBREFRESH",
+    "string": "web refresh",
+    "ua": "web refresh"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WEBSEARCH",
+    "string": "web search",
+    "ua": "web search"
+  },
+  {
+    "id": "kWinFE_WinInptDX_WEBSTOP",
+    "string": "web stop",
+    "ua": "web stop"
+  },
+  {
+    "id": "kWinFE_WinInptDX_X",
+    "string": "X",
+    "ua": "X"
+  },
+  {
+    "id": "kWinFE_WinInptDX_Y",
+    "string": "Y",
+    "ua": "Y"
+  },
+  {
+    "id": "kWinFE_WinInptDX_YEN",
+    "string": "yen",
+    "ua": "yen"
+  },
+  {
+    "id": "kWinFE_WinInptDX_Z",
+    "string": "Z",
+    "ua": "Z"
+  },
+  {
+    "id": "kick",
+    "string": "Удар",
+    "ua": "Удар"
+  },
+  {
+    "id": "killingmove",
+    "string": "Добивание",
+    "ua": "Добивання"
+  },
+  {
+    "id": "kills",
+    "string": "Убийства",
+    "ua": "Вбивства"
+  },
+  {
+    "id": "kingPath",
+    "string": "Путь Короля",
+    "ua": "Шлях Короля"
+  },
+  {
+    "id": "legal",
+    "string": "© MMIII New Line Productions, Inc.  Все права защищены.  The Lord of the Rings§; The Return of the King§ и имена персонажей, предметов, событий и мест являются торговыми марками  The Saul Zaentz Company d/b/a Tolkien Enterprises под лицензией New Line Productions, Inc.  Игровой код и некоторые звуковые и визуальные эффекты © 2003 Electronic Arts Inc. Все права защищены.",
+    "ua": "© MMIII New Line Productions, Inc.  Усі права захищені.  The Lord of the Rings§; The Return of the King§ і імена персонажів, предметів, подій та місць є торговими марками  The Saul Zaentz Company d/b/a Tolkien Enterprises за ліцензією New Line Productions, Inc.  Ігровий код і деякі звукові та візуальні ефекти © 2003 Electronic Arts Inc. Усі права захищені."
+  },
+  {
+    "id": "legal2",
+    "string": "Перевод - ai_enabled и IoG. Специально для Zoneofgames.ru",
+    "ua": "Український переклад - ai_enabled та IoG"
+  },
+  {
+    "id": "legal3",
+    "string": " ",
+    "ua": ""
+  },
+  {
+    "id": "legolas",
+    "string": "Леголас",
+    "ua": "Леголас"
+  },
+  {
+    "id": "level",
+    "string": "Уровень",
+    "ua": "Рівень"
+  },
+  {
+    "id": "levelUp",
+    "string": "Повышение Уровня!",
+    "ua": "Підвищення Рівня!"
+  },
+  {
+    "id": "load2ndplayer",
+    "string": "Вы хотите играть героем из другой игры?",
+    "ua": "Ви хочете грати героєм з іншої гри?"
+  },
+  {
+    "id": "loadGame1",
+    "string": "Игра 1",
+    "ua": "Гра 1"
+  },
+  {
+    "id": "loadGame10",
+    "string": "Игра 10",
+    "ua": "Гра 10"
+  },
+  {
+    "id": "loadGame2",
+    "string": "Игра 2",
+    "ua": "Гра 2"
+  },
+  {
+    "id": "loadGame3",
+    "string": "Игра 3",
+    "ua": "Гра 3"
+  },
+  {
+    "id": "loadGame4",
+    "string": "Игра 4",
+    "ua": "Гра 4"
+  },
+  {
+    "id": "loadGame5",
+    "string": "Игра 5",
+    "ua": "Гра 5"
+  },
+  {
+    "id": "loadGame6",
+    "string": "Игра 6",
+    "ua": "Гра 6"
+  },
+  {
+    "id": "loadGame7",
+    "string": "Игра 7",
+    "ua": "Гра 7"
+  },
+  {
+    "id": "loadGame8",
+    "string": "Игра 8",
+    "ua": "Гра 8"
+  },
+  {
+    "id": "loadGame9",
+    "string": "Игра 9",
+    "ua": "Гра 9"
+  },
+  {
+    "id": "loadLabel",
+    "string": "Выберите Игру для Загрузки",
+    "ua": "Оберіть Гру для Завантаження"
+  },
+  {
+    "id": "loaderror",
+    "string": "Произошла ошибка при попытке загрузить данные.",
+    "ua": "Сталася помилка при спробі завантажити дані."
+  },
+  {
+    "id": "loadgame",
+    "string": "Выберите Игру для Загрузки",
+    "ua": "Оберіть Гру для Завантаження"
+  },
+  {
+    "id": "loading",
+    "string": "Загрузка",
+    "ua": "Завантаження"
+  },
+  {
+    "id": "loadingat",
+    "string": "Действие",
+    "ua": "Дія"
+  },
+  {
+    "id": "loadingatdesc",
+    "string": "Нажмите клавишу действия, чтобы использовать объекты в выделенных областях.",
+    "ua": "Натисніть клавішу дії, щоб використати об'єкти у виділених зонах."
+  },
+  {
+    "id": "loadingex",
+    "string": "Параметр опыта",
+    "ua": "Параметр досвіду"
+  },
+  {
+    "id": "loadingexskdesc",
+    "string": "Заработайте очки Опыта, чтобы повысить уровень героя и купить апгрейды.  Повысьте уровень Мастерства используя продвинутые комбинации, чтобы максимально повысить Опыт.",
+    "ua": "Заробляйте очки Досвіду, щоб підвищити рівень героя і купити апгрейди.  Підвищуйте Рівень Майстерності, використовуючи просунуті комбінації, щоб максимально підвищити Досвід."
+  },
+  {
+    "id": "loadingkm",
+    "string": "Добивание",
+    "ua": "Добивання"
+  },
+  {
+    "id": "loadingkmdesc",
+    "string": "Используйте эту кнопку, чтобы добить врага, который сбит с ног.",
+    "ua": "Використовуйте цю кнопку, щоб добити ворога, збитого з ніг."
+  },
+  {
+    "id": "loadingsk",
+    "string": "Уровень Мастерства",
+    "ua": "Рівень Майстерності"
+  },
+  {
+    "id": "loadingsp",
+    "string": "Специальная возможность",
+    "ua": "Спеціальна можливість"
+  },
+  {
+    "id": "loadingspdesc",
+    "string": "Используйте эту комбинацию клавиш, чтобы использовать специальную возможность своего героя.",
+    "ua": "Використовуйте цю комбінацію клавіш, щоб застосувати спеціальну можливість свого героя."
+  },
+  {
+    "id": "mainMenuCoop",
+    "string": "Кооперативный режим",
+    "ua": "Кооперативний режим"
+  },
+  {
+    "id": "mainMenuCredits",
+    "string": "Создатели",
+    "ua": "Автори"
+  },
+  {
+    "id": "mainMenuExit",
+    "string": "Выход",
+    "ua": "Вихід"
+  },
+  {
+    "id": "mainMenuOnline",
+    "string": "Он-лайн",
+    "ua": "Онлайн"
+  },
+  {
+    "id": "mainMenuOptions",
+    "string": "Настройки",
+    "ua": "Налаштування"
+  },
+  {
+    "id": "mainMenuPlayTrailer",
+    "string": "Трейлер",
+    "ua": "Трейлер"
+  },
+  {
+    "id": "mainMenuPressStart",
+    "string": "Нажмите кнопку Старт",
+    "ua": "Натисніть кнопку Старт"
+  },
+  {
+    "id": "mainMenuPressStart_WIN",
+    "string": "Нажмите любую клавишу",
+    "ua": "Натисніть будь-яку клавішу"
+  },
+  {
+    "id": "mainMenuSingle",
+    "string": "Одиночная игра",
+    "ua": "Одиночна гра"
+  },
+  {
+    "id": "merry",
+    "string": "Мерри",
+    "ua": "Меррі"
+  },
+  {
+    "id": "min00",
+    "string": "Минас-Тирит - Вершина стены",
+    "ua": "Мінас-Тіріт - Вершина стіни"
+  },
+  {
+    "id": "min00LockDescCoop",
+    "string": "Пройдите Дорогу на Изенгард",
+    "ua": "Пройдіть Дорогу на Ізенгард"
+  },
+  {
+    "id": "min00LockDescSingle",
+    "string": "Пройдите Дорогу на Изенгард",
+    "ua": "Пройдіть Дорогу на Ізенгард"
+  },
+  {
+    "id": "min02",
+    "string": "Южные Врата",
+    "ua": "Південна Брама"
+  },
+  {
+    "id": "min02LockDescCoop",
+    "string": "Пройдите Короля Мертвых",
+    "ua": "Пройдіть Короля Мертвих"
+  },
+  {
+    "id": "min02LockDescSingle",
+    "string": "Пройдите Короля Мертвых",
+    "ua": "Пройдіть Короля Мертвих"
+  },
+  {
+    "id": "min04",
+    "string": "Минас-Тирит - Площадь",
+    "ua": "Мінас-Тіріт - Площа"
+  },
+  {
+    "id": "min04LockDescCoop",
+    "string": "Пройдите Минас-Тирит - Вершина стены",
+    "ua": "Пройдіть Мінас-Тіріт - Вершина стіни"
+  },
+  {
+    "id": "min04LockDescSingle",
+    "string": "Пройдите Минас-Тирит - Вершина стены",
+    "ua": "Пройдіть Мінас-Тіріт - Вершина стіни"
+  },
+  {
+    "id": "newgame",
+    "string": "Новая игра",
+    "ua": "Нова гра"
+  },
+  {
+    "id": "newloadDebug",
+    "string": "Debug Game",
+    "ua": "Debug Game"
+  },
+  {
+    "id": "newloadLoad",
+    "string": "Загрузка",
+    "ua": "Завантаження"
+  },
+  {
+    "id": "newloadNew",
+    "string": "Новая игра",
+    "ua": "Нова гра"
+  },
+  {
+    "id": "newmediafull",
+    "string": "Ваш диск переполнен.  Недостаточно места на диске, чтобы сохранить игру.",
+    "ua": "Ваш диск переповнений.  Недостатньо місця на диску, щоб зберегти гру."
+  },
+  {
+    "id": "newplay",
+    "string": "Продолжить без сохранения",
+    "ua": "Продовжити без збереження"
+  },
+  {
+    "id": "newstarting",
+    "string": "Начало игры...",
+    "ua": "Початок гри..."
+  },
+  {
+    "id": "no",
+    "string": "Нет",
+    "ua": "Ні"
+  },
+  {
+    "id": "nogames",
+    "string": "Файл с игрой \"Властелин колец; Возвращение Короля\" не найден.",
+    "ua": "Файл з грою \"Володар Перснів; Повернення Короля\" не знайдено."
+  },
+  {
+    "id": "objective0",
+    "string": "Нажмите кнопку действия, чтобы использовать объекты.",
+    "ua": "Натисніть кнопку дії, щоб використати об'єкти."
+  },
+  {
+    "id": "objective1",
+    "string": "Используйте Силовую Атаку, чтобы сломать щиты врагов.",
+    "ua": "Використовуйте Силову Атаку, щоб зламати щити ворогів."
+  },
+  {
+    "id": "objective10",
+    "string": "Используйте факелы, чтобы сжечь паутину и коконы.",
+    "ua": "Використовуйте факели, щоб спалити павутиння і кокони."
+  },
+  {
+    "id": "objective11",
+    "string": "Хоббиты могут использовать кнопку добивания для закалывания врагов сзади, когда укрыты плащом.",
+    "ua": "Хобіти можуть використовувати кнопку добивання для заколювання ворогів ззаду, коли вкриті плащем."
+  },
+  {
+    "id": "objective12",
+    "string": "Используйте Силовые или Физические Атаки, чтобы сбросить Голлума с обрыва.",
+    "ua": "Використовуйте Силові або Фізичні Атаки, щоб скинути Голлума з обриву."
+  },
+  {
+    "id": "objective13",
+    "string": " ",
+    "ua": ""
+  },
+  {
+    "id": "objective14",
+    "string": "Ошеломите Горбага, чтобы навредить ему.",
+    "ua": "Приголомшіть Горбага, щоб нашкодити йому."
+  },
+  {
+    "id": "objective15",
+    "string": "Убейте мертвых воинов, чтобы сделать Короля уязвимым.",
+    "ua": "Вбивайте мертвих воїнів, щоб зробити Короля вразливим."
+  },
+  {
+    "id": "objective16",
+    "string": "Пройдите 20 волн, чтобы выйти из Палантира и повысить свой опыт.",
+    "ua": "Пройдіть 20 хвиль, щоб вийти з Палантира і підвищити свій досвід."
+  },
+  {
+    "id": "objective17",
+    "string": "Пройдите 20 волн, чтобы выйти из Палантира и повысить свой опыт.",
+    "ua": "Пройдіть 20 хвиль, щоб вийти з Палантира і підвищити свій досвід."
+  },
+  {
+    "id": "objective2",
+    "string": "Используйте комбинации, чтобы быстрее убивать врагов.",
+    "ua": "Використовуйте комбінації, щоб швидше вбивати ворогів."
+  },
+  {
+    "id": "objective3",
+    "string": "Заберитесь на стену, чтобы открыть ворота.",
+    "ua": "Заберіться на стіну, щоб відкрити ворота."
+  },
+  {
+    "id": "objective4",
+    "string": "Баллисты и Боевые Пики могут сразу разбить броню Мумакилов.",
+    "ua": "Балісти і Бойові Списи можуть одразу розбити броню Мумакілів."
+  },
+  {
+    "id": "objective5",
+    "string": "Оставайтесь недалеко от членов Братства, чтобы сохранить им жизнь.",
+    "ua": "Тримайтеся неподалік від членів Братства, щоб зберегти їм життя."
+  },
+  {
+    "id": "objective6",
+    "string": "Используйте Парирование, чтобы отбить атаки врагов и отразить стрелы.",
+    "ua": "Використовуйте Парирування, щоб відбити атаки ворогів і відбити стріли."
+  },
+  {
+    "id": "objective7",
+    "string": "Используйте Физическую атаку, чтобы сбрасывать лестницы.",
+    "ua": "Використовуйте Фізичну атаку, щоб скидати драбини."
+  },
+  {
+    "id": "objective8",
+    "string": "Используйте специальную способность, чтобы выбраться из тяжелых ситуаций.",
+    "ua": "Використовуйте спеціальну здібність, щоб вибратися зі складних ситуацій."
+  },
+  {
+    "id": "objective9",
+    "string": "Используйте специальную способность, чтобы выбраться из тяжелых ситуаций.",
+    "ua": "Використовуйте спеціальну здібність, щоб вибратися зі складних ситуацій."
+  },
+  {
+    "id": "ok",
+    "string": "OK",
+    "ua": "OK"
+  },
+  {
+    "id": "optionsDifficulty",
+    "string": "Сложность",
+    "ua": "Складність"
+  },
+  {
+    "id": "optionsEasy",
+    "string": "Легко",
+    "ua": "Легко"
+  },
+  {
+    "id": "optionsGameVol",
+    "string": "Громкость игры",
+    "ua": "Гучність гри"
+  },
+  {
+    "id": "optionsHard",
+    "string": "Тяжело",
+    "ua": "Важко"
+  },
+  {
+    "id": "optionsLabel",
+    "string": "Опции",
+    "ua": "Опції"
+  },
+  {
+    "id": "optionsMono",
+    "string": "Моно",
+    "ua": "Моно"
+  },
+  {
+    "id": "optionsMusicVol",
+    "string": "Громкость музыки",
+    "ua": "Гучність музики"
+  },
+  {
+    "id": "optionsNormal",
+    "string": "Средне",
+    "ua": "Середньо"
+  },
+  {
+    "id": "optionsOff",
+    "string": "Выкл",
+    "ua": "Викл"
+  },
+  {
+    "id": "optionsOn",
+    "string": "Вкл",
+    "ua": "Увімк"
+  },
+  {
+    "id": "optionsRespawn",
+    "string": "Debug Respawn",
+    "ua": "Debug Respawn"
+  },
+  {
+    "id": "optionsSound",
+    "string": "Звук",
+    "ua": "Звук"
+  },
+  {
+    "id": "optionsStereo",
+    "string": "Стерео",
+    "ua": "Стерео"
+  },
+  {
+    "id": "optionsSubtitles",
+    "string": "Субтитры",
+    "ua": "Субтитри"
+  },
+  {
+    "id": "optionsSurround",
+    "string": "Сурраунд",
+    "ua": "Surround"
+  },
+  {
+    "id": "optionsVOVol",
+    "string": "Громкость голоса",
+    "ua": "Гучність голосу"
+  },
+  {
+    "id": "osg01",
+    "string": "Побег из Осгилиата",
+    "ua": "Втеча з Осгіліата"
+  },
+  {
+    "id": "osg01LockDescCoop",
+    "string": "Пройдите Черные Врата",
+    "ua": "Пройдіть Чорну Браму"
+  },
+  {
+    "id": "osg01LockDescSingle",
+    "string": "Пройдите Хельмову Падь",
+    "ua": "Пройдіть Гельмів Яр"
+  },
+  {
+    "id": "overwrite",
+    "string": "Перезаписать файл \"Властелин Колец; Возвращение Короля\"?",
+    "ua": "Перезаписати файл \"Володар Перснів; Повернення Короля\"?"
+  },
+  {
+    "id": "parry",
+    "string": "Парирование",
+    "ua": "Парирування"
+  },
+  {
+    "id": "pat01",
+    "string": "Путь мертвых",
+    "ua": "Стежка Мертвих"
+  },
+  {
+    "id": "pat01LockDescCoop",
+    "string": "Пройдите Хельмову Падь",
+    "ua": "Пройдіть Гельмів Яр"
+  },
+  {
+    "id": "pat01LockDescSingle",
+    "string": "Пройдите Хельмову Падь",
+    "ua": "Пройдіть Гельмів Яр"
+  },
+  {
+    "id": "pat02",
+    "string": "Король Мертвых",
+    "ua": "Король Мертвих"
+  },
+  {
+    "id": "pat02LockDescCoop",
+    "string": "Пройдите Путь мертвых",
+    "ua": "Пройдіть Стежку Мертвих"
+  },
+  {
+    "id": "pat02LockDescSingle",
+    "string": "Пройдите Путь мертвых",
+    "ua": "Пройдіть Стежку Мертвих"
+  },
+  {
+    "id": "pel01",
+    "string": "Пеленнорские Поля",
+    "ua": "Пеленнорські Поля"
+  },
+  {
+    "id": "pel01LockDescCoop",
+    "string": "Пройдите Южные Врата",
+    "ua": "Пройдіть Південну Браму"
+  },
+  {
+    "id": "pel01LockDescSingle",
+    "string": "Пройдите Южные Врата",
+    "ua": "Пройдіть Південну Браму"
+  },
+  {
+    "id": "perfectMode",
+    "string": "Режим превосходства!",
+    "ua": "Режим досконалості!"
+  },
+  {
+    "id": "pippin",
+    "string": "Пиппин",
+    "ua": "Піппін"
+  },
+  {
+    "id": "playanyway",
+    "string": "Начать игру",
+    "ua": "Почати гру"
+  },
+  {
+    "id": "player",
+    "string": "Игрок",
+    "ua": "Гравець"
+  },
+  {
+    "id": "plus",
+    "string": "+",
+    "ua": "+"
+  },
+  {
+    "id": "purchased",
+    "string": "Куплено",
+    "ua": "Куплено"
+  },
+  {
+    "id": "purgegames",
+    "string": "Удалить сохраненную игру",
+    "ua": "Видалити збережену гру"
+  },
+  {
+    "id": "ranged",
+    "string": "Дальняя Атака",
+    "ua": "Дальня Атака"
+  },
+  {
+    "id": "reading",
+    "string": "Загрузка данных из файла...",
+    "ua": "Завантаження даних з файлу..."
+  },
+  {
+    "id": "removecorrupt",
+    "string": "Удаление поврежденных данных.",
+    "ua": "Видалення пошкоджених даних."
+  },
+  {
+    "id": "replay",
+    "string": "Переиграть",
+    "ua": "Перегравати"
+  },
+  {
+    "id": "replayAreYouSure",
+    "string": "Вы уверены? Результаты вашей последней игры не будут сохранены.",
+    "ua": "Ви впевнені? Результати вашої останньої гри не будуть збережені."
+  },
+  {
+    "id": "respawnInLabel",
+    "string": "Перевоплотиться в",
+    "ua": "Перевтілитися в"
+  },
+  {
+    "id": "retry",
+    "string": "Переиграть",
+    "ua": "Перегравати"
+  },
+  {
+    "id": "sam",
+    "string": "Сэм",
+    "ua": "Сем"
+  },
+  {
+    "id": "save2ndplayer",
+    "string": "Вы хотите сохранить эту игру?",
+    "ua": "Ви хочете зберегти цю гру?"
+  },
+  {
+    "id": "save2ndplayer_WIN",
+    "string": "Вы хотите сохранить продвижение Игрока 2?",
+    "ua": "Ви хочете зберегти прогрес Гравця 2?"
+  },
+  {
+    "id": "saveLabel",
+    "string": "Выберите слот для сохранения",
+    "ua": "Оберіть слот для збереження"
+  },
+  {
+    "id": "saved",
+    "string": "Сохранено.",
+    "ua": "Збережено."
+  },
+  {
+    "id": "saveerror",
+    "string": "Ошибка при попытке сохранения данных.",
+    "ua": "Помилка при спробі збереження даних."
+  },
+  {
+    "id": "savegame",
+    "string": "Выберите слот для сохранения ",
+    "ua": "Оберіть слот для збереження"
+  },
+  {
+    "id": "savegameformat",
+    "string": "%s - 1P:_%d%% Co-op:_%d%% - %02d/%02d_@_%02d:%02d",
+    "ua": "%s - 1P:_%d%% Co-op:_%d%% - %02d/%02d_@_%02d:%02d"
+  },
+  {
+    "id": "savemediafull",
+    "string": "Диск полон.  Недостаточно места для сохранения.",
+    "ua": "Диск повний.  Недостатньо місця для збереження."
+  },
+  {
+    "id": "saving",
+    "string": "Сохранение данных...",
+    "ua": "Збереження даних..."
+  },
+  {
+    "id": "sceneSelAreYouSure",
+    "string": "Вы уверены? Все несохраненное продвижение в этой игре будет потеряно.",
+    "ua": "Ви впевнені? Весь незбережений прогрес у цій грі буде втрачено."
+  },
+  {
+    "id": "sceneSelAvailable",
+    "string": "Доступно",
+    "ua": "Доступно"
+  },
+  {
+    "id": "sceneSelHel01Complete",
+    "string": "Хельмова Падь уже пройдена. Пройдите Роковую Гору, чтобы переиграть этот уровень.",
+    "ua": "Гельмів Яр вже пройдено. Пройдіть Гору Приречення, щоб перегравати цей рівень."
+  },
+  {
+    "id": "sceneSelLabel",
+    "string": "Выберите задание",
+    "ua": "Оберіть завдання"
+  },
+  {
+    "id": "sceneSelLocked",
+    "string": "Заблокировано",
+    "ua": "Заблоковано"
+  },
+  {
+    "id": "sceneSelUnplayed",
+    "string": "Неиграемый",
+    "ua": "Не зіграно"
+  },
+  {
+    "id": "scoringMissionExp",
+    "string": "Опыт миссии :",
+    "ua": "Досвід місії :"
+  },
+  {
+    "id": "scoringMissionRating",
+    "string": "Рейтинг миссии :",
+    "ua": "Рейтинг місії :"
+  },
+  {
+    "id": "scoringPopupFair",
+    "string": "Рейтинг Нормально получить легче всего, но за него дают меньше всего опыта.",
+    "ua": "Рейтинг Нормально отримати найлегше, але за нього дають найменше досвіду."
+  },
+  {
+    "id": "scoringPopupGood",
+    "string": "Рейтинг Хорошо и Отлично дает больше опыта, но для этого нужно нанести сразу несколько ударов, не получив урона.",
+    "ua": "Рейтинг Добре і Відмінно дає більше досвіду, але для цього потрібно завдати одразу декілька ударів, не отримавши шкоди."
+  },
+  {
+    "id": "scoringPopupLevelUp",
+    "string": "Зарабатывайте очки Опыта, чтобы повысить уровень героя и овладеть более мощными навыками и апгрейдами.",
+    "ua": "Заробляйте очки Досвіду, щоб підвищити рівень героя і опанувати потужніші навички та апгрейди."
+  },
+  {
+    "id": "scoringPopupMomentum",
+    "string": "Ваше мастерство влияет на рейтинг убийств. Зарабатывайте очки опыта, нанося несколько ударов подряд.",
+    "ua": "Ваша майстерність впливає на рейтинг вбивств. Заробляйте очки досвіду, завдаючи кілька ударів поспіль."
+  },
+  {
+    "id": "scoringPopupPerfect",
+    "string": "Получение рейтинга превосходно увеличит урон от ваших атак и даст больше очков опыта.",
+    "ua": "Отримання рейтингу досконало збільшить шкоду від ваших атак і дасть більше очок досвіду."
+  },
+  {
+    "id": "secretCharacter",
+    "string": "Секретный герой",
+    "ua": "Секретний герой"
+  },
+  {
+    "id": "secretLevel",
+    "string": "Секретные уровни ",
+    "ua": "Секретні рівні"
+  },
+  {
+    "id": "she01",
+    "string": "Логово Шелоб",
+    "ua": "Лігво Шелоб"
+  },
+  {
+    "id": "she01LockDescCoop",
+    "string": "Пройдите Побег из Осгилиата",
+    "ua": "Пройдіть Втечу з Осгіліата"
+  },
+  {
+    "id": "she01LockDescSingle",
+    "string": "Пройдите Побег из Осгилиата",
+    "ua": "Пройдіть Втечу з Осгіліата"
+  },
+  {
+    "id": "skill",
+    "string": "Мастерство",
+    "ua": "Майстерність"
+  },
+  {
+    "id": "specialFeature",
+    "string": "Дополнительные материалы",
+    "ua": "Додаткові матеріали"
+  },
+  {
+    "id": "specialhelm1",
+    "string": "Концепция Фильма",
+    "ua": "Концепція Фільму"
+  },
+  {
+    "id": "specialhelm1LockDesc",
+    "string": "Пройдите Хельмову Падь",
+    "ua": "Пройдіть Гельмів Яр"
+  },
+  {
+    "id": "specialhelm1UnlockDesc",
+    "string": "Художественная концепция для фильма от Джереми Беннета, Джона Хоува, Поля Ласана и Алана Ли",
+    "ua": "Художня концепція для фільму від Джеремі Беннета, Джона Хоува, Поля Ласана і Алана Лі"
+  },
+  {
+    "id": "specialhelm2",
+    "string": "Хоббиты в игре",
+    "ua": "Хобіти в грі"
+  },
+  {
+    "id": "specialhelm2LockDesc",
+    "string": "Пройдите Хельмову Падь",
+    "ua": "Пройдіть Гельмів Яр"
+  },
+  {
+    "id": "specialhelm2UnlockDesc",
+    "string": "Хоббиты рассказывают о видеоигре 'Властелин Колец'",
+    "ua": "Хобіти розповідають про відеогру 'Володар Перснів'"
+  },
+  {
+    "id": "specialhelm3",
+    "string": "Создание Видеоигры",
+    "ua": "Створення Відеогри"
+  },
+  {
+    "id": "specialhelm3LockDesc",
+    "string": "Пройдите Хельмову Падь",
+    "ua": "Пройдіть Гельмів Яр"
+  },
+  {
+    "id": "specialhelm3UnlockDesc",
+    "string": "Взгляд за сцену видеоигры 'Властелин Колец'",
+    "ua": "Погляд за лаштунки відеогри 'Володар Перснів'"
+  },
+  {
+    "id": "specialise01",
+    "string": "Интервью с Кристофером Ли",
+    "ua": "Інтерв'ю з Крістофером Лі"
+  },
+  {
+    "id": "specialise01LockDesc",
+    "string": "Пройдите Дорогу на Изенгард",
+    "ua": "Пройдіть Дорогу на Ізенгард"
+  },
+  {
+    "id": "specialise01UnlockDesc",
+    "string": "Кристофер Ли рассказывает об игре",
+    "ua": "Крістофер Лі розповідає про гру"
+  },
+  {
+    "id": "specialmin00",
+    "string": "Интервью с Яном Маккеленом",
+    "ua": "Інтерв'ю з Яном Маккелленом"
+  },
+  {
+    "id": "specialmin00LockDesc",
+    "string": "Пройдите Минас-Тирит - Вершина стены",
+    "ua": "Пройдіть Мінас-Тіріт - Вершина стіни"
+  },
+  {
+    "id": "specialmin00UnlockDesc",
+    "string": "Ян Маккелен рассказывает об игре",
+    "ua": "Ян Маккеллен розповідає про гру"
+  },
+  {
+    "id": "specialmin02",
+    "string": "Все еще в производстве",
+    "ua": "Ще у виробництві"
+  },
+  {
+    "id": "specialmin02LockDesc",
+    "string": "Пройдите Южные Врата",
+    "ua": "Пройдіть Південну Браму"
+  },
+  {
+    "id": "specialmin02UnlockDesc",
+    "string": "Монтируемые кадры из фильма 'Властелин Колец'",
+    "ua": "Змонтовані кадри з фільму 'Володар Перснів'"
+  },
+  {
+    "id": "specialosg01",
+    "string": "Интервью с Шоном Остином",
+    "ua": "Інтерв'ю з Шоном Астіном"
+  },
+  {
+    "id": "specialosg01LockDesc",
+    "string": "Пройдите Побег из Осгилиата",
+    "ua": "Пройдіть Втечу з Осгіліата"
+  },
+  {
+    "id": "specialosg01UnlockDesc",
+    "string": "Шон Остин рассказывает об игре",
+    "ua": "Шон Астін розповідає про гру"
+  },
+  {
+    "id": "specialpat01",
+    "string": "Концепция Игры",
+    "ua": "Концепція Гри"
+  },
+  {
+    "id": "specialpat01LockDesc",
+    "string": "Пройдите Путь мертвых",
+    "ua": "Пройдіть Стежку Мертвих"
+  },
+  {
+    "id": "specialpat01UnlockDesc",
+    "string": "Художественная концепция видеоигры 'Властелин Колец'",
+    "ua": "Художня концепція відеогри 'Володар Перснів'"
+  },
+  {
+    "id": "specialshe01",
+    "string": "Интервью с Элайджей Вудом",
+    "ua": "Інтерв'ю з Елайджею Вудом"
+  },
+  {
+    "id": "specialshe01LockDesc",
+    "string": "Пройдите Логово Шелоб",
+    "ua": "Пройдіть Лігво Шелоб"
+  },
+  {
+    "id": "specialshe01UnlockDesc",
+    "string": "Элайджа Вуд рассказывает об игре",
+    "ua": "Елайджа Вуд розповідає про гру"
+  },
+  {
+    "id": "specialtree1",
+    "string": "Палантир Сарумана",
+    "ua": "Палантир Сарумана"
+  },
+  {
+    "id": "specialtree1LockDesc",
+    "string": "Пройдите Роковую Гору",
+    "ua": "Пройдіть Гору Приречення"
+  },
+  {
+    "id": "specialtree1UnlockDesc",
+    "string": "Секретные Уровни Палантира",
+    "ua": "Секретні Рівні Палантира"
+  },
+  {
+    "id": "specialtree2",
+    "string": "Интервью с Билли Бойдом",
+    "ua": "Інтерв'ю з Біллі Бойдом"
+  },
+  {
+    "id": "specialtree2LockDesc",
+    "string": "Пройдите Роковую Гору",
+    "ua": "Пройдіть Гору Приречення"
+  },
+  {
+    "id": "specialtree2UnlockDesc",
+    "string": "Билли Бойд рассказывает об игре",
+    "ua": "Біллі Бойд розповідає про гру"
+  },
+  {
+    "id": "specialtree3",
+    "string": "Интервью с Доном Моноганом",
+    "ua": "Інтерв'ю з Домініком Монаганом"
+  },
+  {
+    "id": "specialtree3LockDesc",
+    "string": "Пройдите Роковую Гору",
+    "ua": "Пройдіть Гору Приречення"
+  },
+  {
+    "id": "specialtree3UnlockDesc",
+    "string": "Дон Моноган рассказывает об игре",
+    "ua": "Домінік Монаган розповідає про гру"
+  },
+  {
+    "id": "specialtree4",
+    "string": "Интервью с Энди Серкисом",
+    "ua": "Інтерв'ю з Енді Серкісом"
+  },
+  {
+    "id": "specialtree4LockDesc",
+    "string": "Пройдите Роковую Гору",
+    "ua": "Пройдіть Гору Приречення"
+  },
+  {
+    "id": "specialtree4UnlockDesc",
+    "string": "Энди Серкис рассказывает об игре",
+    "ua": "Енді Серкіс розповідає про гру"
+  },
+  {
+    "id": "specialtree5",
+    "string": "Интервью с Дэвидом Вэхемом",
+    "ua": "Інтерв'ю з Девідом Веземом"
+  },
+  {
+    "id": "specialtree5LockDesc",
+    "string": "Пройдите Роковую Гору",
+    "ua": "Пройдіть Гору Приречення"
+  },
+  {
+    "id": "specialtree5UnlockDesc",
+    "string": "Дэвид Вэхем рассказывает об игре",
+    "ua": "Девід Вежем розповідає про гру"
+  },
+  {
+    "id": "specialtree6",
+    "string": "Секретные коды",
+    "ua": "Секретні коди"
+  },
+  {
+    "id": "specialtree6LockDesc",
+    "string": "Пройдите Роковую Гору",
+    "ua": "Пройдіть Гору Приречення"
+  },
+  {
+    "id": "specialtree6UnlockDesc",
+    "string": "Секретные коды для раскрытия спрятанных особенностей видеоигры 'Властелин Колец'",
+    "ua": "Секретні коди для розкриття прихованих особливостей відеогри 'Володар Перснів'"
+  },
+  {
+    "id": "specialtree7",
+    "string": "Палантир Саурона",
+    "ua": "Палантир Саурона"
+  },
+  {
+    "id": "specialtree7LockDesc",
+    "string": "Пройдите Роковую Гору и достигнете Уровень 10 с 3 героями: Гендальф, Сэм, и на выбор Арагорн, Леголас или Гимли",
+    "ua": "Пройдіть Гору Приречення і досягніть Рівня 10 з 3 героями: Гендальф, Сем, і на вибір Арагорн, Леголас або Гімлі"
+  },
+  {
+    "id": "specialtree7UnlockDesc",
+    "string": "Секретные уровни Палантира",
+    "ua": "Секретні рівні Палантира"
+  },
+  {
+    "id": "speed",
+    "string": "Быстрая Атака",
+    "ua": "Швидка Атака"
+  },
+  {
+    "id": "test",
+    "string": "Это тест.",
+    "ua": "Це тест."
+  },
+  {
+    "id": "total",
+    "string": "Всего",
+    "ua": "Всього"
+  },
+  {
+    "id": "totalExperience",
+    "string": "Всего Опыта",
+    "ua": "Всього Досвіду"
+  },
+  {
+    "id": "totalUpgradePoints",
+    "string": "Всего Опыта :",
+    "ua": "Всього Досвіду :"
+  },
+  {
+    "id": "up",
+    "string": "xp",
+    "ua": "xp"
+  },
+  {
+    "id": "upgradeAll",
+    "string": "Все",
+    "ua": "Все"
+  },
+  {
+    "id": "upgradeAraAbility1",
+    "string": "Гондорский Мастер-Мечник",
+    "ua": "Гондорський Майстер-Мечник"
+  },
+  {
+    "id": "upgradeAraAbility1Desc",
+    "string": "Увеличивает повреждения и переводит в Режим Превосходства более быстро с помощью этой Специальной Возможности.",
+    "ua": "Збільшує шкоду і переводить у Режим Переваги швидше за допомогою цієї Спеціальної Можливості."
+  },
+  {
+    "id": "upgradeAraAbility2",
+    "string": "Победитель Королей",
+    "ua": "Переможець Королів"
+  },
+  {
+    "id": "upgradeAraAbility2Desc",
+    "string": "Увеличивает повреждение и переводит в Режим Превосходства еще быстрее. (Требуется Гондорский Мастер-Мечник)",
+    "ua": "Збільшує шкоду і переводить у Режим Переваги ще швидше. (Потрібно: Гондорський Майстер-Мечник)"
+  },
+  {
+    "id": "upgradeAraDamage1",
+    "string": "Королевское Мастерство Мечей",
+    "ua": "Королівська Майстерність Мечів"
+  },
+  {
+    "id": "upgradeAraDamage1Desc",
+    "string": "Увеличивает повреждения от вашей Быстрой Атаки.",
+    "ua": "Збільшує шкоду від вашої Швидкої Атаки."
+  },
+  {
+    "id": "upgradeAraDev1",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeAraDev1Desc",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeAraDev2",
+    "string": "Ярость Следопыта",
+    "ua": "Лють Слідопита"
+  },
+  {
+    "id": "upgradeAraDev2Desc",
+    "string": "Опустошающая атака, которая причиняет повреждение молнией.",
+    "ua": "Спустошлива атака, яка завдає шкоди блискавкою."
+  },
+  {
+    "id": "upgradeAraDev3",
+    "string": "Дикая Ярость",
+    "ua": "Дика Лють"
+  },
+  {
+    "id": "upgradeAraDev3Desc",
+    "string": "Более опустошающая атака, которая поражает врагов огнем. (Требуется Ярость Следопыта)",
+    "ua": "Більш спустошлива атака, яка вражає ворогів вогнем. (Потрібно: Лють Слідопита)"
+  },
+  {
+    "id": "upgradeAraDev4",
+    "string": "Гнев Нуменора",
+    "ua": "Гнів Нуменору"
+  },
+  {
+    "id": "upgradeAraDev4Desc",
+    "string": "Самая опустошающая атака, которая посылает кольцо огненных шаров. (Требуется Дикая Ярость)",
+    "ua": "Найспустошливіша атака, яка посилає кільце вогняних куль. (Потрібно: Дика Лють)"
+  },
+  {
+    "id": "upgradeAraHealth1",
+    "string": "Сила Камня",
+    "ua": "Сила Каменю"
+  },
+  {
+    "id": "upgradeAraHealth1Desc",
+    "string": "Увеличивает ваше здоровье.",
+    "ua": "Збільшує ваше здоров'я."
+  },
+  {
+    "id": "upgradeAraHealth2",
+    "string": "Сила Железа",
+    "ua": "Сила Заліза"
+  },
+  {
+    "id": "upgradeAraHealth2Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Камня)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Каменю)"
+  },
+  {
+    "id": "upgradeAraHealth3",
+    "string": "Сила Братства",
+    "ua": "Сила Братства"
+  },
+  {
+    "id": "upgradeAraHealth3Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Браства)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Братства)"
+  },
+  {
+    "id": "upgradeAraHealth4",
+    "string": "Сила Вечерней Звезды",
+    "ua": "Сила Вечірньої Зорі"
+  },
+  {
+    "id": "upgradeAraHealth4Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Браства)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Братства)"
+  },
+  {
+    "id": "upgradeAraRange1",
+    "string": "Пепельные Стрелы",
+    "ua": "Попелясті Стріли"
+  },
+  {
+    "id": "upgradeAraRange1Desc",
+    "string": "Пепельные Стрелы",
+    "ua": "Попелясті Стріли"
+  },
+  {
+    "id": "upgradeAraRange2",
+    "string": "Дунаданские Стрелы",
+    "ua": "Дунаданські Стріли"
+  },
+  {
+    "id": "upgradeAraRange2Desc",
+    "string": "Эти освященные Эльфийские стрелы причиняют дополнительные повреждения.",
+    "ua": "Ці освячені Ельфійські стріли завдають додаткової шкоди."
+  },
+  {
+    "id": "upgradeAraRange3",
+    "string": "Стрелы Ривенделла",
+    "ua": "Стріли Рівенделлу"
+  },
+  {
+    "id": "upgradeAraRange3Desc",
+    "string": "Эти стрелы вызывают электрическую дугу при прикосновении. (Требуются Дунаданские Стрелы)",
+    "ua": "Ці стріли викликають електричну дугу при дотику. (Потрібно: Дунаданські Стріли)"
+  },
+  {
+    "id": "upgradeAraRange4",
+    "string": "Мифриловые Стрелы",
+    "ua": "Мітрилові Стріли"
+  },
+  {
+    "id": "upgradeAraRange4Desc",
+    "string": "Эти магические стрелы поражают врагов огнем. (Требуются Стрелы Ривенделла)",
+    "ua": "Ці магічні стріли вражають ворогів вогнем. (Потрібно: Стріли Рівенделлу)"
+  },
+  {
+    "id": "upgradeCharacter",
+    "string": "Герой",
+    "ua": "Герой"
+  },
+  {
+    "id": "upgradeCombo1",
+    "string": "Хитрость Орка",
+    "ua": "Хитрість Орка"
+  },
+  {
+    "id": "upgradeCombo1Desc",
+    "string": "КОМБИНАЦИЯ: Эффективная комбинация для убивания незащищенных врагов.",
+    "ua": "КОМБІНАЦІЯ: Ефективна комбінація для вбивання незахищених ворогів."
+  },
+  {
+    "id": "upgradeCombo2",
+    "string": "Приговор",
+    "ua": "Вирок"
+  },
+  {
+    "id": "upgradeCombo2Desc",
+    "string": "КОМБИНАЦИЯ: Ранит, повергает, затем приканчивает мощных врагов.",
+    "ua": "КОМБІНАЦІЯ: Ранить, повалює, потім прикінчує потужних ворогів."
+  },
+  {
+    "id": "upgradeCombo3",
+    "string": "Гамбит Барлога",
+    "ua": "Гамбіт Барлога"
+  },
+  {
+    "id": "upgradeCombo3Desc",
+    "string": "КОМБИНАЦИЯ: Ранит, повергает, ударяет вашего врага.",
+    "ua": "КОМБІНАЦІЯ: Ранить, повалює, вдаряє вашого ворога."
+  },
+  {
+    "id": "upgradeCombo4",
+    "string": "Темное Раскрытие",
+    "ua": "Темне Розкриття"
+  },
+  {
+    "id": "upgradeCombo4Desc",
+    "string": "КОМБИНАЦИЯ: Эффективно против быстрых врагов со щитами.",
+    "ua": "КОМБІНАЦІЯ: Ефективно проти швидких ворогів зі щитами."
+  },
+  {
+    "id": "upgradeCombo5",
+    "string": "Взломщик Щитов",
+    "ua": "Зломщик Щитів"
+  },
+  {
+    "id": "upgradeCombo5Desc",
+    "string": "КОМБИНАЦИЯ: Используется на сильных врагах для удара по щиту, повергания их на землю и удара.",
+    "ua": "КОМБІНАЦІЯ: Використовується на сильних ворогах для удару по щиту, повалення їх на землю і удару."
+  },
+  {
+    "id": "upgradeCombo6",
+    "string": "Удар Молнией",
+    "ua": "Удар Блискавки"
+  },
+  {
+    "id": "upgradeCombo6Desc",
+    "string": "КОМБИНАЦИЯ: Серия быстрых и мощных ударов, которая убивает одного или нескольких незащищенных врагов.",
+    "ua": "КОМБІНАЦІЯ: Серія швидких і потужних ударів, яка вбиває одного або декількох незахищених ворогів."
+  },
+  {
+    "id": "upgradeCombo7",
+    "string": "Молот Хельма",
+    "ua": "Молот Гельма"
+  },
+  {
+    "id": "upgradeCombo7Desc",
+    "string": "КОМБИНАЦИЯ: Смертельная комбинация для раскалывания вражеских щитов и повторного удара.",
+    "ua": "КОМБІНАЦІЯ: Смертельна комбінація для розколювання ворожих щитів і повторного удару."
+  },
+  {
+    "id": "upgradeCombo8",
+    "string": "Мягкий Суд",
+    "ua": "М'який Суд"
+  },
+  {
+    "id": "upgradeCombo8Desc",
+    "string": "КОМБИНАЦИЯ: Эффективная комбинация для убивания незащищенных врагов.",
+    "ua": "КОМБІНАЦІЯ: Ефективна комбінація для вбивання незахищених ворогів."
+  },
+  {
+    "id": "upgradeDamage1",
+    "string": "Сила Братства",
+    "ua": "Сила Братства"
+  },
+  {
+    "id": "upgradeDamage1Desc",
+    "string": "Увеличивает поврежение, причиняемое специальной атакой члена Братства.",
+    "ua": "Збільшує шкоду, що завдається спеціальною атакою члена Братства."
+  },
+  {
+    "id": "upgradeDividerLeft",
+    "string": "Ј",
+    "ua": "Ј"
+  },
+  {
+    "id": "upgradeDividerRight",
+    "string": "Ґ",
+    "ua": "Ґ"
+  },
+  {
+    "id": "upgradeDoneBuyingAreYouSure",
+    "string": "Вы закончили покупать апгрейды?",
+    "ua": "Ви закінчили купувати апгрейди?"
+  },
+  {
+    "id": "upgradeEarned",
+    "string": "Заработано",
+    "ua": "Зароблено"
+  },
+  {
+    "id": "upgradeEntryPopup1",
+    "string": "За Очки Опыта можно купить апгрейды для текущего героя или всего Братства.",
+    "ua": "За Очки Досвіду можна купити апгрейди для поточного героя або всього Братства."
+  },
+  {
+    "id": "upgradeEntryPopup2",
+    "string": "Апгрейд для всего Братства может быть использован героями, которые достигли необходимого уровня.",
+    "ua": "Апгрейд для всього Братства може бути використаний героями, які досягли необхідного рівня."
+  },
+  {
+    "id": "upgradeEntryPopup3",
+    "string": "Поздравляем!  В этой миссии вы перешли на новый уровень.",
+    "ua": "Вітаємо!  У цій місії ви перейшли на новий рівень."
+  },
+  {
+    "id": "upgradeFF",
+    "string": "Двойной Удар",
+    "ua": "Подвійний Удар"
+  },
+  {
+    "id": "upgradeFFDesc",
+    "string": "Комбо для пробивания вражеских щитов.",
+    "ua": "Комбо для пробивання ворожих щитів."
+  },
+  {
+    "id": "upgradeFellowship",
+    "string": "Братство",
+    "ua": "Братство"
+  },
+  {
+    "id": "upgradeGanAbility1",
+    "string": "Сила Ума",
+    "ua": "Сила Розуму"
+  },
+  {
+    "id": "upgradeGanAbility1Desc",
+    "string": "Магический щит наносит больше повреждений и действует дольше.",
+    "ua": "Магічний щит завдає більше шкоди і діє довше."
+  },
+  {
+    "id": "upgradeGanAbility2",
+    "string": "Сила Палантира",
+    "ua": "Сила Палантира"
+  },
+  {
+    "id": "upgradeGanAbility2Desc",
+    "string": "Магический щит сильнее отбивает врагов и действует дольше. (Требуется Сила Ума)",
+    "ua": "Магічний щит сильніше відбиває ворогів і діє довше. (Потрібно: Сила Розуму)"
+  },
+  {
+    "id": "upgradeGanAbility3",
+    "string": "Магия Серебристой Гавани",
+    "ua": "Магія Сріблястої Гавані"
+  },
+  {
+    "id": "upgradeGanAbility3Desc",
+    "string": "Магический щит сбивает врагов на землю и действует дольше. (Требуется Сила Палантира)",
+    "ua": "Магічний щит збиває ворогів на землю і діє довше. (Потрібно: Сила Палантира)"
+  },
+  {
+    "id": "upgradeGanDamage1",
+    "string": "Сила Истари",
+    "ua": "Сила Істарі"
+  },
+  {
+    "id": "upgradeGanDamage1Desc",
+    "string": "Увеличивает повреждение от ваших Дистанционных и Опустошающих Атак",
+    "ua": "Збільшує шкоду від ваших Дистанційних і Спустошливих Атак"
+  },
+  {
+    "id": "upgradeGanDev1",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeGanDev1Desc",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeGanDev2",
+    "string": "Дым Войны",
+    "ua": "Дим Війни"
+  },
+  {
+    "id": "upgradeGanDev2Desc",
+    "string": "Это действие вызывает облако, которое сбивает врагов.",
+    "ua": "Ця дія викликає хмару, яка збиває ворогів."
+  },
+  {
+    "id": "upgradeGanDev3",
+    "string": "Гнев Анора",
+    "ua": "Гнів Анора"
+  },
+  {
+    "id": "upgradeGanDev3Desc",
+    "string": "Более разрушительная атака, создающая кольцо молний. (Требуется Дым Войны)",
+    "ua": "Більш руйнівна атака, що створює кільце блискавок. (Потрібно: Дим Війни)"
+  },
+  {
+    "id": "upgradeGanDev4",
+    "string": "Пламя Удуна",
+    "ua": "Полум'я Удуна"
+  },
+  {
+    "id": "upgradeGanDev4Desc",
+    "string": "Самая опустошительная атака, которая создает кольцо огня. (Требуется Гнев Анора)",
+    "ua": "Найспустошливіша атака, яка створює кільце вогню. (Потрібно: Гнів Анора)"
+  },
+  {
+    "id": "upgradeGanHealth1",
+    "string": "Сила Камня",
+    "ua": "Сила Каменю"
+  },
+  {
+    "id": "upgradeGanHealth1Desc",
+    "string": "Увеличивает ваше здоровье.",
+    "ua": "Збільшує ваше здоров'я."
+  },
+  {
+    "id": "upgradeGanHealth2",
+    "string": "Сила Железа",
+    "ua": "Сила Заліза"
+  },
+  {
+    "id": "upgradeGanHealth2Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Камня)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Каменю)"
+  },
+  {
+    "id": "upgradeGanHealth3",
+    "string": "Сила Братства",
+    "ua": "Сила Братства"
+  },
+  {
+    "id": "upgradeGanHealth3Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Железа)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Заліза)"
+  },
+  {
+    "id": "upgradeGanRange1",
+    "string": "Дальняя Атака",
+    "ua": "Дальня Атака"
+  },
+  {
+    "id": "upgradeGanRange1Desc",
+    "string": "Дальняя Атака",
+    "ua": "Дальня Атака"
+  },
+  {
+    "id": "upgradeGanRange2",
+    "string": "Свет Пилигрима",
+    "ua": "Світло Пілігрима"
+  },
+  {
+    "id": "upgradeGanRange2Desc",
+    "string": "Стрела молнии вызывает дополнительное повреждение.",
+    "ua": "Стріла блискавки викликає додаткову шкоду."
+  },
+  {
+    "id": "upgradeGanRange3",
+    "string": "Свет Кузниц",
+    "ua": "Світло Кузень"
+  },
+  {
+    "id": "upgradeGanRange3Desc",
+    "string": "Магические огни поджаривают врагов. (Требуется Свет Пилигрима)",
+    "ua": "Магічні вогні підсмажують ворогів. (Потрібно: Світло Пілігрима)"
+  },
+  {
+    "id": "upgradeGanRange4",
+    "string": "Свет Валара",
+    "ua": "Світло Валара"
+  },
+  {
+    "id": "upgradeGanRange4Desc",
+    "string": "Чистый свет проходит сквозь множество врагов, поджигая их. (Требуется Свет Кузниц)",
+    "ua": "Чисте світло проходить крізь безліч ворогів, підпалюючи їх. (Потрібно: Світло Кузень)"
+  },
+  {
+    "id": "upgradeGimAbility1",
+    "string": "Горная Руда",
+    "ua": "Гірська Руда"
+  },
+  {
+    "id": "upgradeGimAbility1Desc",
+    "string": "Увеличивает повреждение и переводит в Режим Превосходства более быстро с помощью этой Специальной Возможности.",
+    "ua": "Збільшує шкоду і переводить у Режим Переваги швидше за допомогою цієї Спеціальної Можливості."
+  },
+  {
+    "id": "upgradeGimAbility2",
+    "string": "Королевское Мастерство Топора",
+    "ua": "Королівська Майстерність Сокири"
+  },
+  {
+    "id": "upgradeGimAbility2Desc",
+    "string": "Увеличивает повреждение и переводит в Режим Превосходства еще быстрее. (Требуется Горная Руда)",
+    "ua": "Збільшує шкоду і переводить у Режим Переваги ще швидше. (Потрібно: Гірська Руда)"
+  },
+  {
+    "id": "upgradeGimDamage1",
+    "string": "Гномье Мастерство Топора",
+    "ua": "Гномівська Майстерність Сокири"
+  },
+  {
+    "id": "upgradeGimDamage1Desc",
+    "string": "Увеличивает повреждение от вашей Силовой Атаки.",
+    "ua": "Збільшує шкоду від вашої Силової Атаки."
+  },
+  {
+    "id": "upgradeGimDev1",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeGimDev1Desc",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeGimDev2",
+    "string": "Ярость Гнома",
+    "ua": "Лють Гнома"
+  },
+  {
+    "id": "upgradeGimDev2Desc",
+    "string": "Опустошающая атака, которая причиняет повреждение молнией.",
+    "ua": "Спустошлива атака, яка завдає шкоди блискавкою."
+  },
+  {
+    "id": "upgradeGimDev3",
+    "string": "Ярость Гор",
+    "ua": "Лють Гір"
+  },
+  {
+    "id": "upgradeGimDev3Desc",
+    "string": "Более опустошающая атака, которая поражает врагов огнем. (Требуется Ярость Гнома)",
+    "ua": "Більш спустошлива атака, яка вражає ворогів вогнем. (Потрібно: Лють Гнома)"
+  },
+  {
+    "id": "upgradeGimDev4",
+    "string": "Молот Мории",
+    "ua": "Молот Морії"
+  },
+  {
+    "id": "upgradeGimDev4Desc",
+    "string": "Самая опустошающая атака, которая посылает кольцо файерболов. (Требуется Ярость Гор)",
+    "ua": "Найспустошливіша атака, яка посилає кільце вогнекуль. (Потрібно: Лють Гір)"
+  },
+  {
+    "id": "upgradeGimHealth1",
+    "string": "Сила Камня",
+    "ua": "Сила Каменю"
+  },
+  {
+    "id": "upgradeGimHealth1Desc",
+    "string": "Постоянно увеличивает ваше здоровье.",
+    "ua": "Постійно збільшує ваше здоров'я."
+  },
+  {
+    "id": "upgradeGimHealth2",
+    "string": "Сила Железа",
+    "ua": "Сила Заліза"
+  },
+  {
+    "id": "upgradeGimHealth2Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Камня)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Каменю)"
+  },
+  {
+    "id": "upgradeGimHealth3",
+    "string": "Сила Братства",
+    "ua": "Сила Братства"
+  },
+  {
+    "id": "upgradeGimHealth3Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Железа)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Заліза)"
+  },
+  {
+    "id": "upgradeGimHealth4",
+    "string": "Сила Глоина",
+    "ua": "Сила Глоїна"
+  },
+  {
+    "id": "upgradeGimHealth4Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Братства)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Братства)"
+  },
+  {
+    "id": "upgradeGimHealth5",
+    "string": "Сила Казад-Дума",
+    "ua": "Сила Казад-Думу"
+  },
+  {
+    "id": "upgradeGimHealth5Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Глоина)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Глоїна)"
+  },
+  {
+    "id": "upgradeGimRange1",
+    "string": "Метательные Топоры",
+    "ua": "Метальні Сокири"
+  },
+  {
+    "id": "upgradeGimRange1Desc",
+    "string": "Метательные Топоры",
+    "ua": "Метальні Сокири"
+  },
+  {
+    "id": "upgradeGimRange2",
+    "string": "Топоры Эребора",
+    "ua": "Сокири Еребору"
+  },
+  {
+    "id": "upgradeGimRange2Desc",
+    "string": "Эти волшебные метательные топоры причиняют дополнительное повреждение.",
+    "ua": "Ці чарівні метальні сокири завдають додаткової шкоди."
+  },
+  {
+    "id": "upgradeGimRange3",
+    "string": "Топоры Мории",
+    "ua": "Сокири Морії"
+  },
+  {
+    "id": "upgradeGimRange3Desc",
+    "string": "Эти волшебные топоры вызывают электрическую дугу при столкновении. (Требуются Топоры Эребора)",
+    "ua": "Ці чарівні сокири викликають електричну дугу при зіткненні. (Потрібно: Сокири Еребору)"
+  },
+  {
+    "id": "upgradeHobAbility1",
+    "string": "Плащ Халдира",
+    "ua": "Плащ Халдіра"
+  },
+  {
+    "id": "upgradeHobAbility1Desc",
+    "string": "Увеличивает время прятания хоббита под его Эльфийским Плащом.",
+    "ua": "Збільшує час переховування хобіта під його Ельфійським Плащем."
+  },
+  {
+    "id": "upgradeHobAbility2",
+    "string": "Плащ Селеборна",
+    "ua": "Плащ Келеборна"
+  },
+  {
+    "id": "upgradeHobAbility2Desc",
+    "string": "Увеличивает время прятания хоббита под его Эльфийским Плащом. (Требуется Плащ Халдира)",
+    "ua": "Збільшує час переховування хобіта під його Ельфійським Плащем. (Потрібно: Плащ Халдіра)"
+  },
+  {
+    "id": "upgradeHobAbility3",
+    "string": "Плащ Галадриэль",
+    "ua": "Плащ Галадріель"
+  },
+  {
+    "id": "upgradeHobAbility3Desc",
+    "string": "Увеличивает время прятания хоббита под его Эльфийским Плащом. (Требуется Плащ Келеборна)",
+    "ua": "Збільшує час переховування хобіта під його Ельфійським Плащем. (Потрібно: Плащ Келеборна)"
+  },
+  {
+    "id": "upgradeHobDamage1",
+    "string": "Сила Гаффера",
+    "ua": "Сила Гаффера"
+  },
+  {
+    "id": "upgradeHobDamage1Desc",
+    "string": "Увеличивает повреждение от всех атак мечом при атаке врагов сзади.",
+    "ua": "Збільшує шкоду від усіх атак мечем при атаці ворогів ззаду."
+  },
+  {
+    "id": "upgradeHobDev1",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeHobDev1Desc",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeHobDev2",
+    "string": "Отравленное Лезвие",
+    "ua": "Отруєне Лезо"
+  },
+  {
+    "id": "upgradeHobDev2Desc",
+    "string": "Опустошающая атака, которая причиняет длительное повреждение.",
+    "ua": "Спустошлива атака, яка завдає тривалої шкоди."
+  },
+  {
+    "id": "upgradeHobDev3",
+    "string": "Облако Тьмы",
+    "ua": "Хмара Темряви"
+  },
+  {
+    "id": "upgradeHobDev3Desc",
+    "string": "Разрушительное ядовитое облако, которое причиняет длительное повреждение. (Требуется Отравленное Лезвие)",
+    "ua": "Руйнівна отруйна хмара, яка завдає тривалої шкоди. (Потрібно: Отруєне Лезо)"
+  },
+  {
+    "id": "upgradeHobDev4",
+    "string": "Облако Ярости",
+    "ua": "Хмара Люті"
+  },
+  {
+    "id": "upgradeHobDev4Desc",
+    "string": "Самое разрушительное ядовитое облако, которое причиняет длительное повреждение. (Требуется Облако Тьмы)",
+    "ua": "Найруйнівніша отруйна хмара, яка завдає тривалої шкоди. (Потрібно: Хмара Темряви)"
+  },
+  {
+    "id": "upgradeHobHealth1",
+    "string": "Сила Камня",
+    "ua": "Сила Каменю"
+  },
+  {
+    "id": "upgradeHobHealth1Desc",
+    "string": "Увеличивает ваше здоровье.",
+    "ua": "Збільшує ваше здоров'я."
+  },
+  {
+    "id": "upgradeHobHealth2",
+    "string": "Сила Железа",
+    "ua": "Сила Заліза"
+  },
+  {
+    "id": "upgradeHobHealth2Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Камня)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Каменю)"
+  },
+  {
+    "id": "upgradeHobHealth3",
+    "string": "Сила Братства",
+    "ua": "Сила Братства"
+  },
+  {
+    "id": "upgradeHobHealth3Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Железа)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Заліза)"
+  },
+  {
+    "id": "upgradeHobHealth4",
+    "string": "Сила Полуросликов",
+    "ua": "Сила Напіврослих"
+  },
+  {
+    "id": "upgradeHobHealth4Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Братства)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Братства)"
+  },
+  {
+    "id": "upgradeHobHealth5",
+    "string": "Сила Торбинсов",
+    "ua": "Сила Торбинів"
+  },
+  {
+    "id": "upgradeHobHealth5Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Полуросликов)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Напіврослих)"
+  },
+  {
+    "id": "upgradeHobRange1",
+    "string": "Метательные Ножи",
+    "ua": "Метальні Ножі"
+  },
+  {
+    "id": "upgradeHobRange1Desc",
+    "string": "Метательные Ножи",
+    "ua": "Метальні Ножі"
+  },
+  {
+    "id": "upgradeHobRange2",
+    "string": "Чувство Хоббита",
+    "ua": "Чуття Хобіта"
+  },
+  {
+    "id": "upgradeHobRange2Desc",
+    "string": "Увеличивает расстояние, на котором хоббиты могут засекать врагов.",
+    "ua": "Збільшує відстань, на якій хобіти можуть помічати ворогів."
+  },
+  {
+    "id": "upgradeHobRange3",
+    "string": "Ядовитые Кинжалы",
+    "ua": "Отруйні Кинджали"
+  },
+  {
+    "id": "upgradeHobRange3Desc",
+    "string": "Каждый удар кинжала причиняет дополнительное повреждение.",
+    "ua": "Кожен удар кинджала завдає додаткової шкоди."
+  },
+  {
+    "id": "upgradeHobRange4",
+    "string": "Моргульские Кинжалы",
+    "ua": "Моргульські Кинджали"
+  },
+  {
+    "id": "upgradeHobRange4Desc",
+    "string": "Самая мощная дистанционная атака хоббитов. (Требуются Ядовитые Кинжалы)",
+    "ua": "Найпотужніша дистанційна атака хобітів. (Потрібно: Отруйні Кинджали)"
+  },
+  {
+    "id": "upgradeKill1",
+    "string": "Дуновение Смерти",
+    "ua": "Подих Смерті"
+  },
+  {
+    "id": "upgradeKill1Desc",
+    "string": "Дуновение Смерти",
+    "ua": "Подих Смерті"
+  },
+  {
+    "id": "upgradeLabel",
+    "string": "Экран Апгрейда",
+    "ua": "Екран Апгрейду"
+  },
+  {
+    "id": "upgradeLegAbility1",
+    "string": "Свет Лотлориэна",
+    "ua": "Світло Лотлоріену"
+  },
+  {
+    "id": "upgradeLegAbility1Desc",
+    "string": "Увеличивает повреждение и переводит в Режим Превосходства более быстро с помощью этой Специальной Способности.",
+    "ua": "Збільшує шкоду і переводить у Режим Переваги швидше за допомогою цієї Спеціальної Здібності."
+  },
+  {
+    "id": "upgradeLegAbility2",
+    "string": "Подарок Галадриэль",
+    "ua": "Подарунок Галадріель"
+  },
+  {
+    "id": "upgradeLegAbility2Desc",
+    "string": "Увеличивает повреждение и переводит в Режим Превосходства еще быстрее. (Требуется Свет Лотлориэна)",
+    "ua": "Збільшує шкоду і переводить у Режим Переваги ще швидше. (Потрібно: Світло Лотлоріену)"
+  },
+  {
+    "id": "upgradeLegDamage1",
+    "string": "Эльфийское Мастерство Лука",
+    "ua": "Ельфійська Майстерність Лука"
+  },
+  {
+    "id": "upgradeLegDamage1Desc",
+    "string": "Стреляет двумя стрелами по двум целям за один раз.",
+    "ua": "Стріляє двома стрілами по двох цілях за раз."
+  },
+  {
+    "id": "upgradeLegDev1",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeLegDev1Desc",
+    "string": "Опустошающая Атака",
+    "ua": "Спустошлива Атака"
+  },
+  {
+    "id": "upgradeLegDev2",
+    "string": "Ярость Эльфа",
+    "ua": "Лють Ельфа"
+  },
+  {
+    "id": "upgradeLegDev2Desc",
+    "string": "Опустошающая атака, которая причиняет повреждение молнией.",
+    "ua": "Спустошлива атака, яка завдає шкоди блискавкою."
+  },
+  {
+    "id": "upgradeLegDev3",
+    "string": "Ярость Элронда",
+    "ua": "Лють Елронда"
+  },
+  {
+    "id": "upgradeLegDev3Desc",
+    "string": "Более опустошающая атака, которая поражает врагов огнем. (Требуется Ярость Эльфа)",
+    "ua": "Більш спустошлива атака, яка вражає ворогів вогнем. (Потрібно: Лють Ельфа)"
+  },
+  {
+    "id": "upgradeLegHealth1",
+    "string": "Сила Камня",
+    "ua": "Сила Каменю"
+  },
+  {
+    "id": "upgradeLegHealth1Desc",
+    "string": "Увеличивает ваше здоровье.",
+    "ua": "Збільшує ваше здоров'я."
+  },
+  {
+    "id": "upgradeLegHealth2",
+    "string": "Сила Железа",
+    "ua": "Сила Заліза"
+  },
+  {
+    "id": "upgradeLegHealth2Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Камня)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Каменю)"
+  },
+  {
+    "id": "upgradeLegHealth3",
+    "string": "Сила Братства",
+    "ua": "Сила Братства"
+  },
+  {
+    "id": "upgradeLegHealth3Desc",
+    "string": "Увеличивает ваше здоровье.  (Требуется Сила Железа)",
+    "ua": "Збільшує ваше здоров'я.  (Потрібно: Сила Заліза)"
+  },
+  {
+    "id": "upgradeLegRange1",
+    "string": "Пепельные Стрелы",
+    "ua": "Попелясті Стріли"
+  },
+  {
+    "id": "upgradeLegRange1Desc",
+    "string": "Пепельные Стрелы",
+    "ua": "Попелясті Стріли"
+  },
+  {
+    "id": "upgradeLegRange2",
+    "string": "Стрелы Лихолесья",
+    "ua": "Стріли Лихолісся"
+  },
+  {
+    "id": "upgradeLegRange2Desc",
+    "string": "Эти освященные Эльфийские стрелы причиняют дополнительные повреждения. ",
+    "ua": "Ці освячені Ельфійські стріли завдають додаткової шкоди."
+  },
+  {
+    "id": "upgradeLegRange3",
+    "string": "Стрелы Лотлориэна",
+    "ua": "Стріли Лотлоріену"
+  },
+  {
+    "id": "upgradeLegRange3Desc",
+    "string": "Эти стрелы вызывают электрическую дугу при прикосновении. (Требуются Стрелы Сумрачного Леса)",
+    "ua": "Ці стріли викликають електричну дугу при дотику. (Потрібно: Стріли Лихолісся)"
+  },
+  {
+    "id": "upgradeLegRange4",
+    "string": "Стрелы Валара",
+    "ua": "Стріли Валара"
+  },
+  {
+    "id": "upgradeLegRange4Desc",
+    "string": "Эти магические стрелы поражают врагов огнем. (Требуются Стрелы Лотлориэна)",
+    "ua": "Ці магічні стріли вражають ворогів вогнем. (Потрібно: Стріли Лотлоріену)"
+  },
+  {
+    "id": "upgradeLegRange5",
+    "string": "Мифриловые Стрелы",
+    "ua": "Мітрилові Стріли"
+  },
+  {
+    "id": "upgradeLegRange5Desc",
+    "string": "Эти стрелы поражают огнем всех врагов на их пути. (Требуются Стрелы Валара)",
+    "ua": "Ці стріли вражають вогнем усіх ворогів на своєму шляху. (Потрібно: Стріли Валара)"
+  },
+  {
+    "id": "upgradeLink1",
+    "string": "Смерть Орка",
+    "ua": "Смерть Орка"
+  },
+  {
+    "id": "upgradeLink1Desc",
+    "string": "Комбо: Парировать, затем быстро атаковать, атакующего орка.",
+    "ua": "Комбо: Парирувати, потім швидко атакувати орка, що атакує."
+  },
+  {
+    "id": "upgradeLink2",
+    "string": "Прием Воина",
+    "ua": "Прийом Воїна"
+  },
+  {
+    "id": "upgradeLink2Desc",
+    "string": "Комбо: Парировать, затем быстро убить врага размером с человека.",
+    "ua": "Комбо: Парирувати, потім швидко вбити ворога розміром з людину."
+  },
+  {
+    "id": "upgradeLink3",
+    "string": "Прием Саурона",
+    "ua": "Прийом Саурона"
+  },
+  {
+    "id": "upgradeLink3Desc",
+    "string": "Комбо: Парировать, затем быстро убить атакующего урук-хая.",
+    "ua": "Комбо: Парирувати, потім швидко вбити урук-хая, що атакує."
+  },
+  {
+    "id": "upgradeLocked",
+    "string": "Еще не открыто.",
+    "ua": "Ще не відкрито."
+  },
+  {
+    "id": "upgradeNA",
+    "string": "Н/Д",
+    "ua": "Н/Д"
+  },
+  {
+    "id": "upgradeNoMoney",
+    "string": "У вас недостаточно опыта, чтобы получить этот апгрейд.",
+    "ua": "У вас недостатньо досвіду, щоб отримати цей апгрейд."
+  },
+  {
+    "id": "upgradePerfect1",
+    "string": "Зона убийства",
+    "ua": "Зона вбивства"
+  },
+  {
+    "id": "upgradePerfect1Desc",
+    "string": "Увеличивает время нахождения вами в режиме превосходства.",
+    "ua": "Збільшує час перебування вами в режимі переваги."
+  },
+  {
+    "id": "upgradePoints",
+    "string": "Очки опыта",
+    "ua": "Очки досвіду"
+  },
+  {
+    "id": "upgradePointsColon",
+    "string": "Опыт: ",
+    "ua": "Досвід:"
+  },
+  {
+    "id": "upgradePurchased",
+    "string": "Куплено",
+    "ua": "Куплено"
+  },
+  {
+    "id": "upgradeRising1",
+    "string": "Восставшая Ярость",
+    "ua": "Повстала Лють"
+  },
+  {
+    "id": "upgradeRising1Desc",
+    "string": "Атакуйте, когда подниметесь, заставая врагов врасплох.",
+    "ua": "Атакуйте, коли підніметеся, заскочивши ворогів зненацька."
+  },
+  {
+    "id": "upgradeSSS",
+    "string": "Тройной удар",
+    "ua": "Потрійний удар"
+  },
+  {
+    "id": "upgradeSSSDesc",
+    "string": "Быстрое комбо, эффективное против маленьких врагов без щитов.",
+    "ua": "Швидке комбо, ефективне проти маленьких ворогів без щитів."
+  },
+  {
+    "id": "upgradeWantToBuy",
+    "string": "Вы уверены, что хотите купить этот апгрейд?",
+    "ua": "Ви впевнені, що хочете купити цей апгрейд?"
+  },
+  {
+    "id": "useAbilities",
+    "string": "Использовать апгрейды Братства",
+    "ua": "Використати апгрейди Братства"
+  },
+  {
+    "id": "wantToSave",
+    "string": "Хотите сохранить игру?",
+    "ua": "Хочете зберегти гру?"
+  },
+  {
+    "id": "wizardPath",
+    "string": "Путь Мага",
+    "ua": "Шлях Мага"
+  },
+  {
+    "id": "yes",
+    "string": "Да",
+    "ua": "Так"
+  }
+]
